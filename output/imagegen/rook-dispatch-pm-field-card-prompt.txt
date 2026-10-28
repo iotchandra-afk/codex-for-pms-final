@@ -1,0 +1,25 @@
+Use case: productivity-visual. Create a beautifully typeset executive ready-reference card for fictional Rook Dispatch. Portrait 2:3 layout, high resolution, with five spacious numbered horizontal sections. Premium restrained Rook brand: midnight navy header/footer, warm ivory reading surface, icy gray fine dividers, precise amber numbers, an original minimal rook chess-tower mark. Subtle polar-station architecture in the header only. Typography is the hero; keep all body copy large and readable, comfortable margins and generous spacing. Elegant professional editorial design with quiet superhero logistics character. NO people, NO busy illustrations, NO decorative charts. Make this a practical reference card, not an advertisement. Render the following copy verbatim, with numbered titles bold and explanatory copy below each title:
+
+Top brand: "ROOK DISPATCH"
+Title: "THE PM FIELD CARD"
+Subtitle: "Five priorities before the next move"
+
+"1  Diagnose before choosing a fix"
+"Routing weights and timeout changed together. Seasonality is untested; September recovery is unconfirmed."
+
+"2  Find who stopped receiving offers"
+"Roughly two-thirds of reported complaints concerned missing offers. Identify who lost routing priority and whether missed or declined pings compound that loss."
+
+"3  Confirm the intended routing"
+"Marcus’s question about responders turning jobs down remains unresolved. Ask Priya what was intentional; validate the implementation with Wen."
+
+"4  Reconcile commitments"
+"Availability Confidence was committed to 4.2; shipment is unconfirmed. With Helen, establish what slipped, what customers were promised, and who owns delivery."
+
+"5  Check the Supply dependency"
+"Dispatch’s availability record drives Supply maintenance scheduling. Check cross-product effects before changing availability."
+
+Footer prominent: "RAVI: NUMBERS  •  NADIA: COMPLAINTS  •  WEN: ROUTING"
+Small final source-context line: "4.2 handover priorities • Recheck dated evidence before acting"
+
+Make every word accurately spelled and fully visible. Preserve uncertainty. Do not imply the complaint split is a current verified metric or invent causes, metrics, endorsements, or promises. Opaque background.

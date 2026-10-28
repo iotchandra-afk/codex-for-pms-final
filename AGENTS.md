@@ -65,3 +65,7 @@ Sources: wiki [Company](https://app.notion.com/p/3eac8516f5018120af01caaedd4b076
 - The handover omits Ravi; release comments distinguish Marcus's rough pulls from official weekly reporting.
 - Priya's dismissal of filter complaints lacks a supporting impact assessment in these sources.
 - Ask Priya for routing acceptance criteria, affected responder cohorts and rollback decision thresholds.
+
+- A compounding loss of offers after missed/declined pings is a hypothesis to test, not an established explanation.
+- The reviewed Company material does not identify Supply's owner; find that partner before availability changes.
+- The cover note and reviews in `01-origin-story/extra-practice/` summarize existing sources; they are not independent evidence.
