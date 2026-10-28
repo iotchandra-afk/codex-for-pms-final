@@ -23,4 +23,45 @@ certification. Everything in it is a fictional teaching scenario.
 
 ## Working context
 
-_You'll fill this in during Module 1._
+### Products and customers
+
+The user succeeds Dispatch PM Priya Raghunathan (left 21 August 2026). Rook sells per-active-responder subscriptions to independent masked responders and handlers; responders are not employees.
+
+- **Dispatch:** flagship coordination product. Handlers use web; responders use phones. Incident → rank available responders → ping → taken assigns/engages; turned down or missed advances to the next responder.
+- **Supply:** equipment requisitions, approvals, fulfillment and maintenance. Service intervals set schedules; field failures can advance them.
+- Dispatch writes the **Responder Availability Record**; Supply reads it for maintenance scheduling during low callout load. Availability changes affect both products.
+- Monthly release train; routing configuration and ping wait ship in releases, not handler settings.
+
+### People to work with
+
+- **Helen Achebe, Director of Product:** roadmap and commitments.
+- **Marcus Oyelaran, Engineering Manager:** engineering, technical sounding board, rough data pulls.
+- **Wen Li, Staff Engineer:** built routing; consult on ranking.
+- **Ravi Menon, Data Analyst:** official weekly acceptance numbers.
+- **Sofia Marino, Designer:** console, phone app, September interviews.
+- **Nadia Hoffmann, Support Lead:** complaints, ticket breakdown; regular check-ins recommended.
+
+### Vocabulary and measures
+
+A **callout** requests incident attendance; a **ping** offers it to one responder. Outcomes: **taken**, **turned down**, **missed** (ping wait expired). **Acceptance rate** = taken / all pings, reported weekly. **Time-to-accept** = median seconds from sent to taken. **Coverage gap** = no available responder matches required capability tags, distinct from low acceptance.
+
+**Routing priority** combines travel-time proximity, availability, capability match and recent acceptance history; turned-down/missed pings lower future ranking. **Handler:** responder readiness, availability, tags and gear. **Quartermaster:** stock and approvals. **Mutual aid/shared cover:** cross-city coverage, unsupported today.
+
+### Where things stand
+
+- **4.1, 16 June 2026:** travel-time proximity, bulk callouts, push reliability. Console/mobile stable per Priya; routing risky.
+- **4.2, 12 August:** proximity weighted up against acceptance history; ping wait 90 → 60 seconds; persistent filters and three fixes.
+- Priya reports falling acceptance. Nadia: tickets ~3× normal on 18 August; still elevated 26 August, two-thirds “phone never goes off,” one-third “gone before I could answer.” Recheck dated observations.
+- Marcus questioned identical routing treatment for responders turning jobs down; unresolved. Separate routing/timeout effects. Priya's seasonality explanation and opposition to rollback are opinions; recovery unverified.
+- Document routing with Wen; assess impact using Ravi's numbers, Nadia's tickets and Sofia's research.
+- **Q3 roadmap, reviewed 30 June:** still names Priya. Availability Confidence (score beside stated availability): committed 4.2, absent from release notes; shipment unconfirmed. Priya reports deferred items; reconcile commitments with Helen. Supply approval chains: committed 4.3. Handler app/shared cover: Q4 explorations.
+
+### Guardrails and sources
+
+Never infer legal identities or assume identity mappings exist. Cover identities are not stored in production. Read Security Policy 4.1 before responder-record changes.
+
+Sources: wiki [Company](https://app.notion.com/p/3eac8516f5018120af01caaedd4b0761), including product pages, glossary, directory, releases/comments and roadmap; `00-rook/company/notes/handoff-from-priya.docx` (21 August 2026). Treat source dates as snapshots.
+
+- The handover omits Ravi; release comments distinguish Marcus's rough pulls from official weekly reporting.
+- Priya's dismissal of filter complaints lacks a supporting impact assessment in these sources.
+- Ask Priya for routing acceptance criteria, affected responder cohorts and rollback decision thresholds.
