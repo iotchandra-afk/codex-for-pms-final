@@ -69,3 +69,10 @@ Sources: wiki [Company](https://app.notion.com/p/3eac8516f5018120af01caaedd4b076
 - A compounding loss of offers after missed/declined pings is a hypothesis to test, not an established explanation.
 - The reviewed Company material does not identify Supply's owner; find that partner before availability changes.
 - The cover note and reviews in `01-origin-story/extra-practice/` summarize existing sources; they are not independent evidence.
+
+- Four September console-redesign interviews: 3/4 mention disappearing offers, 2/4 quiet or uneven work; readability and handler alerts are prominent.
+- All 147 tickets are classified into 56 specific issues in `02-super-hearing/support-ticket-classification.md`; the dated comparison is in `support-tickets-before-after-12-august.md` alongside it.
+- Before 12 August: 40 tickets/44 days; after: 105/26 days; release-day tickets: 2, separate. Daily filing rate rises 4.4x, while filing handlers rise from 11 to 12.
+- After 12 August, 30 missing/reduced-offer tickets concern four responders; 14 disappearing-offer tickets concern ten. Together these are 44/105 tickets; follow-ups are not independent customers, and filing dates do not prove onset or cause.
+- Only Captain Vantage overlaps the interviewed and ticketed responder samples. Kip describes The Gale overloaded while Meteor Mite is quiet; no equivalent overload complaint appears in the tickets.
+- Halloran reports improved maintenance scheduling, yet two later tickets report busy-day bookings. The sources reveal different experiences; the interviews also mention the core offer problems, so they are not purely about console design.
