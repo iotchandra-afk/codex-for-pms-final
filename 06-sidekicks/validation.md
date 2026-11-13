@@ -10,6 +10,8 @@ Validated 12 November 2026. The evidence supports a reusable skill, a complete m
 | Automation registration | App create/update response for `rook-product-brief-review` | ACTIVE; same ID |
 | First future run | No execution yet | Pending |
 
+Submission hardening added a [second actual manual run](reviews/manual-2-2026-11-12.md) against four fresh full-page reads and the revised skill. Sixteen judgments retained the same four flags; the helper produced an unchanged, quiet delta. [Revised-skill validation](evidence/revised-skill-validation.json) records current YAML/frontmatter validation and the exact file hash; it does not reuse the prior official validator result as proof of a different file version. The assignment's two-runs-plus-schedule requirement is met separately from future trigger verification.
+
 ## What the manual run establishes
 
 The [JSON review](reviews/manual-2026-11-12.json) includes the discovered source IDs, full source text and all four check results for each brief. Exact quotations support both passes and flags. The helper accepted the report and created [the complete baseline](review-state.json), with four distinct issue identities.

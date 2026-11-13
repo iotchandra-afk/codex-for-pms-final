@@ -1,0 +1,16 @@
+{
+  "run_id": "manual-2-2026-11-12",
+  "run_type": "manual",
+  "reviewed_at": "2026-11-13T01:03:04Z",
+  "complete": true,
+  "brief_count": 4,
+  "flag_count": 4,
+  "status": "unchanged",
+  "should_surface": false,
+  "access_restored": false,
+  "baseline_preserved": false,
+  "new": [],
+  "changed": [],
+  "resolved": [],
+  "removed_sources": []
+}

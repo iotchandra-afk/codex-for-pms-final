@@ -1,6 +1,6 @@
 # Module 6 completed
 
-Completed 12 November 2026 for the fictional Rook coursework. The reusable skill, initial source-backed review, complete baseline and active weekly workflow are in place. The first future scheduled execution remains pending.
+Completed 12 November 2026 for the fictional Rook coursework. The reusable skill, two actual source-backed manual reviews, complete baseline, active weekly workflow and root [final presentation](../final-report.html) are in place. The first future scheduled execution remains an operational follow-up; the official assignment requires two runs and a schedule.
 
 The operating purpose is to catch weak commitments before they become delivery commitments: work without an accountable owner, an observable outcome, a release boundary or a demonstrated customer problem.
 
@@ -22,6 +22,8 @@ All four current briefs were read in full; the 16 judgments have exact supportin
 | Handler Phone App | Opens with an app before establishing the problem | Lead with missed handler awareness and justify the proposed response. |
 
 The [initial review](reviews/manual-2026-11-12.md) contains quotations, business consequences and follow-ups. The [full JSON report](reviews/manual-2026-11-12.json) retains every judgment and source text; [source snapshots](reviews/sources/) preserve the pages read. The source assigns Approval Chains to **the Rook Supply team**; a stakeholder's name in the supplied example is not evidence of ownership.
+
+The [second actual review](reviews/manual-2-2026-11-12.md) reread all four current pages under the revised skill. All 16 checks were rejudged; the same four flags produced an unchanged, quiet delta. The two complete manual runs demonstrate the required repetition without claiming either was a scheduler trigger. [Revised-skill validation](evidence/revised-skill-validation.json) records the exact skill hash.
 
 ## Scheduled workflow
 

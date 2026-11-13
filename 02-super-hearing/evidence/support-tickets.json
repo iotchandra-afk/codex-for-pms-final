@@ -1,0 +1,1326 @@
+[
+  {
+    "ticket_number": 3001,
+    "filed_at": "2026-06-29T10:27:18.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Equipment catalog search",
+    "body": "Searching the equipment catalog for \"plate\" gives me forty results and most of them have nothing to do with armor. Could we have category filters, or search by what the item is for?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3002,
+    "filed_at": "2026-06-30T12:54:02.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Coverage view does not print well",
+    "body": "I print the coverage view for the handover to the morning handler. The right-hand column gets cut off on every page. A print layout would be appreciated.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3003,
+    "filed_at": "2026-07-01T20:04:01.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Notes field cuts off",
+    "body": "The notes box on The Drift's profile stops at what looks like 250 characters. I keep notes about medical and equipment needs there and it is not enough room.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3004,
+    "filed_at": "2026-07-02T13:13:53.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Spare mask on back order",
+    "body": "The Undertow's spare mask has been on back order for a month. Is there an alternative model that is in stock and rated the same?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3005,
+    "filed_at": "2026-07-04T19:01:28.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Please save my filter settings",
+    "body": "Following up on an older request: I would like the console to keep my filters between sessions. I set the same three filters every single shift.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3006,
+    "filed_at": "2026-07-05T10:32:53.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Bulk callout — how does it work?",
+    "body": "I saw the note about sending one job to more than one responder at once. I cannot find the button. Where is it?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3007,
+    "filed_at": "2026-07-06T15:06:09.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Repeated notification",
+    "body": "The Longcast's phone went off a second time for a job he had already answered. He thought it was a new one.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3008,
+    "filed_at": "2026-07-06T18:41:24.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Handler handover notes",
+    "body": "When I hand over to the overnight handler, there is nowhere in the console to leave a note for them. We use a paper notebook at the moment. A shared notes area would help.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3009,
+    "filed_at": "2026-07-07T20:17:32.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Map in the incident view is out of date",
+    "body": "The street map in the incident view still shows the old road layout by the ferry terminal. The new road opened in the spring.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3010,
+    "filed_at": "2026-07-08T10:43:24.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Training for a new handler",
+    "body": "We have a new handler starting next month. Is there any training material or a guided tour of the console we can give them?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3011,
+    "filed_at": "2026-07-10T20:02:29.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Boot resole taking too long",
+    "body": "Nightwell's boots went in for a resole and the estimated return date has moved twice. She is managing with her spare pair, but they are not rated for the cold.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3012,
+    "filed_at": "2026-07-11T18:49:19.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Filters reset every time I open the console",
+    "body": "Every time I open the console I have to set my filters again — responder, capability tags, all of it. It takes five minutes each time. Could the console remember them?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3013,
+    "filed_at": "2026-07-13T08:44:19.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Text on status badges is too small",
+    "body": "The engaged and available badges are hard to tell apart unless I lean right in to the screen. A larger size or a stronger color difference would help a great deal.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3014,
+    "filed_at": "2026-07-14T15:07:43.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Missed one while out of signal",
+    "body": "The Undertow was in a spot with no signal last night and the ping had moved on by the time he was back in range. Not a complaint, just noting it.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3015,
+    "filed_at": "2026-07-14T19:39:02.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Responder list sorting",
+    "body": "The list of responders on my screen sorts by when they were added, not by name. Could it remember the order I choose?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3016,
+    "filed_at": "2026-07-15T11:34:20.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Same ping arrived twice",
+    "body": "Nightwell's phone buzzed twice for the same job last night. The second one showed up after she had already said yes. Confusing more than anything.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3017,
+    "filed_at": "2026-07-15T19:58:13.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Keyboard shortcuts",
+    "body": "Are there keyboard shortcuts for the console? I would like to switch between the coverage view and the incident feed without reaching for the mouse.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3018,
+    "filed_at": "2026-07-16T19:02:09.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Dark mode for the console",
+    "body": "Is there any plan for a dark version of the console? I work nights and it is the brightest thing in the room by a long way. I have turned my screen down as far as it goes.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3019,
+    "filed_at": "2026-07-18T20:37:43.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Capability tags jump around",
+    "body": "On the responder detail panel, The Undertow's capability tags come up in a different order each time I open it. Minor, but it makes it harder to check at a glance.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3020,
+    "filed_at": "2026-07-19T18:21:28.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Console logs me out too often",
+    "body": "The console signs me out after what feels like twenty minutes of not clicking anything. On a quiet shift I am watching it, not clicking it, and then I have to sign in again at the worst moment.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3021,
+    "filed_at": "2026-07-20T09:44:30.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Vest plate replacement",
+    "body": "Farlight has a cracked vest plate. I have ordered a replacement, but the priority field on the requisition does not seem to change how quickly it moves. How do I mark something as genuinely urgent?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3022,
+    "filed_at": "2026-07-21T18:28:56.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Grapple line retracts at wrong speed in cold weather",
+    "body": "Sgt. Falkirk's grapple line reels back in much slower when it is below freezing. We noticed it on two night jobs this month. I have filed a field failure report as well, but wanted to raise it here in case it is a known issue.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3023,
+    "filed_at": "2026-07-23T08:40:58.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Question about billing",
+    "body": "Our invoice this month lists Halfmoon twice. She is one person. Could someone check it?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3024,
+    "filed_at": "2026-07-23T09:41:11.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Capability tag missing",
+    "body": "Ironvale has been cleared for cold-weather work, but I cannot find how to add the tag to her profile. Is it something I add, or something you add?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3025,
+    "filed_at": "2026-07-24T16:04:46.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Coverage report export has the wrong times",
+    "body": "When I export the coverage report, every time on it is out by several hours. It looks like it is using the wrong time zone.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3026,
+    "filed_at": "2026-07-27T14:49:49.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Responder detail panel covers the map",
+    "body": "The responder detail panel opens on top of the map, so I cannot see where The Undertow is while I am reading his details. Could it open to the side?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3027,
+    "filed_at": "2026-07-28T08:10:03.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Cold-weather gloves wearing through",
+    "body": "The cold-weather gloves are wearing through at the fingertips after about a month. Farlight goes through a pair a month. Is there a sturdier option?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3028,
+    "filed_at": "2026-07-29T10:11:06.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Incident feed scrolls back to the top",
+    "body": "When a new incident comes in, the feed jumps back to the top and I lose my place. I was halfway down reading something.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3029,
+    "filed_at": "2026-07-29T12:04:56.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Dark mode, again",
+    "body": "Adding my name to the list of people asking for a dark theme. I have seen other handlers ask on the forum. Working from 10pm to 6am with a white screen is hard on the eyes.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3030,
+    "filed_at": "2026-07-30T14:48:40.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Request: show when gear is due back",
+    "body": "When The Drift's equipment is out for maintenance, the console shows that it is away but not when it is due back. A date would save me a phone call each time.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3031,
+    "filed_at": "2026-08-01T17:12:15.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Same alert sound for everything",
+    "body": "Every alert on the console makes the same sound, so I have to look up every time to see what it is. Could there be a different sound for different kinds of alert?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3032,
+    "filed_at": "2026-08-02T14:47:26.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Field failure report — no reply",
+    "body": "I filed a field failure report about The Longcast's boots three weeks ago. I can see it on the item's history, but nobody has been in touch. Does anyone read these?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3033,
+    "filed_at": "2026-08-04T08:27:51.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Turned one down by accident",
+    "body": "The Drift meant to say yes on Sunday evening and pressed the wrong button. The job went to someone else. Could the buttons be further apart, or could there be a second or two to undo it?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3034,
+    "filed_at": "2026-08-04T12:26:00.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Push notifications unreliable on older phones",
+    "body": "Ironvale has an older phone and some days the notifications come through late or not at all. Is there a list of phones that are supported?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3035,
+    "filed_at": "2026-08-05T19:44:12.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Request: mark a responder as on leave",
+    "body": "Halfmoon is away on leave for a week. There is no way to show that in the console except setting her unavailable, which looks the same as being busy. A leave status would help.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3036,
+    "filed_at": "2026-08-07T18:13:08.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Wrong size delivered",
+    "body": "Sgt. Falkirk's new gloves arrived in the wrong size. The requisition says large, the box says medium. What is the quickest way to swap them?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3037,
+    "filed_at": "2026-08-07T20:01:50.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Capability tag legend hard to find",
+    "body": "The list explaining what each capability tag means is buried behind the responder detail panel. I only need it now and then, but when I do I can never remember where it lives.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3038,
+    "filed_at": "2026-08-09T14:44:31.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Gear delivered to the wrong office",
+    "body": "A box of replacement lenses for Cindermark arrived at your office in Cornwall instead of coming to us. Someone there kindly called me. How do I make sure our address is right on the order?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3039,
+    "filed_at": "2026-08-09T15:19:47.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Screen reader support",
+    "body": "One of our handlers uses a screen reader. Several buttons on the console are read out as \"button\" with no name, so she cannot tell them apart.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3040,
+    "filed_at": "2026-08-10T20:03:14.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Double notifications",
+    "body": "Every so often Ironvale gets the same notification twice, a few seconds apart. It has happened three or four times this month.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3041,
+    "filed_at": "2026-08-12T15:41:57.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Ping moved on while The Drift was reaching for the phone",
+    "body": "The Drift says he had his thumb on the screen this morning and it switched to someone else. He was not happy. Is that expected?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3042,
+    "filed_at": "2026-08-12T16:45:35.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Filter remembered on the wrong computer",
+    "body": "I use the console on two computers. The filters I save on one do not appear on the other. Is that expected?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3043,
+    "filed_at": "2026-08-13T09:14:00.000Z",
+    "filed_by": "Mr. Ambrose",
+    "about_responder": "Captain Vantage",
+    "subject": "Callout moved on before he could answer",
+    "body": "Filing this mostly so it is on record. Yesterday evening a callout came in and Captain Vantage was in the process of suiting up, coat and one boot on, when it moved along to someone else before he could get to his phone. This is not the first time it has happened this year, but it is the first time I have watched the clock on it myself. I would ask that whoever reviews this at least confirm the timing is what it is meant to be, since it felt very fast.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3044,
+    "filed_at": "2026-08-13T11:55:16.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Filters reset after update",
+    "body": "Twice now my saved filters have been wiped overnight. I assume there was an update. I would rather it told me than quietly reset.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3045,
+    "filed_at": "2026-08-13T20:14:19.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Console slow on Monday mornings",
+    "body": "Every Monday between about 8 and 9 the console takes a long time to load the coverage view. Other days it is fine. Not urgent, but it happens every week.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3046,
+    "filed_at": "2026-08-14T10:11:24.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Filters saved but the wrong ones",
+    "body": "The console kept my filters, but it kept the ones from my colleague's shift, not mine. We share a computer. Can each sign-in have its own?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3047,
+    "filed_at": "2026-08-14T10:23:00.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Gone before he could answer",
+    "body": "Sgt. Falkirk's phone went yesterday afternoon and by the time he had it in his hand the job had already gone to somebody else. He was not far from it. Is there a set amount of time before it moves on?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3048,
+    "filed_at": "2026-08-14T11:02:19.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "It vanished before he could swipe",
+    "body": "Sgt. Falkirk asked me to pass this on: \"phone buzzed, by the time i unlocked it, gone.\" That was last night. Could someone look at what happened?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3049,
+    "filed_at": "2026-08-14T12:24:26.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Password reset email slow",
+    "body": "The password reset email took almost an hour to arrive this morning. I was locked out of the console for all of that time.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3050,
+    "filed_at": "2026-08-14T15:37:27.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Availability window when traveling",
+    "body": "Halfmoon is working from a different city for two weeks. When I set her availability hours, the console seems to use my time zone, not the one she is in. Which one does it use?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3051,
+    "filed_at": "2026-08-15T08:18:07.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Can I export The Undertow's history?",
+    "body": "I would like to download a list of the jobs The Undertow has done this year, for our own records. I can see them one at a time on screen but cannot find a way to save them.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3052,
+    "filed_at": "2026-08-15T09:04:58.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Lost one yesterday morning",
+    "body": "Ironvale lost one yesterday morning. The phone buzzed, she unlocked it, and it was gone. She says it has happened more than once lately.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3053,
+    "filed_at": "2026-08-15T13:20:01.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Second handler access",
+    "body": "My colleague covers for me two nights a week. Can she have her own sign-in for Ironvale's account rather than using mine?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3054,
+    "filed_at": "2026-08-15T20:25:45.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Maintenance booked on a bad day",
+    "body": "The maintenance schedule booked Sgt. Falkirk's suit in for servicing on the day of the city marathon, which is always one of our busiest days. Can I move it myself, or does someone at your end need to?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3055,
+    "filed_at": "2026-08-16T09:52:22.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Ping moved on while Halfmoon was reaching for the phone",
+    "body": "Halfmoon says she had her thumb on the screen last night and it switched to someone else. She was not happy. Is that expected?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3056,
+    "filed_at": "2026-08-16T09:57:07.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Ping moved on while Nightwell was reaching for the phone",
+    "body": "Nightwell says she had her thumb on the screen last night and it switched to someone else. She was not happy. Is that expected?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3057,
+    "filed_at": "2026-08-16T11:34:49.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Maintenance reminder came after the date",
+    "body": "The reminder that Ironvale's harness was due for servicing arrived two days after the service date. It would be more useful a week before.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3058,
+    "filed_at": "2026-08-16T11:35:51.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Console tab title",
+    "body": "When I have several browser tabs open, the console's tab just says \"Console\". Could it show the name of the view I am on?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3059,
+    "filed_at": "2026-08-16T15:17:56.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Cannot change Stormwrack's phone number",
+    "body": "Stormwrack has a new phone number. The profile page will not let me save the new one; it says the format is wrong, but it is a normal number.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3060,
+    "filed_at": "2026-08-17T11:03:12.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Farlight's phone has not gone off in 3 days",
+    "body": "Farlight's phone has not gone off in three days, which is not like her at all. I have checked her availability and everything is set to available. Nothing looks wrong on our side. Could someone check yours?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3061,
+    "filed_at": "2026-08-18T09:34:11.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Filter badge hard to see",
+    "body": "Now that filters stay on between sessions, I sometimes forget one is on. The small badge showing a filter is active is easy to miss.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3062,
+    "filed_at": "2026-08-18T13:56:56.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Thank you for saving filters",
+    "body": "Not a problem, just a thank you. Having the console keep my filters has saved me a few minutes every shift.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3063,
+    "filed_at": "2026-08-18T18:18:39.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Requisition waiting on approval for over a week",
+    "body": "I put in a requisition for a replacement grapple line for Corporal Ashgrove nine days ago and it is still waiting for a quartermaster to sign it. Is there anything I can do to move it along?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3064,
+    "filed_at": "2026-08-18T19:07:36.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Filters went back to default",
+    "body": "My saved filters disappeared this morning and the console went back to showing everyone. I did not notice for a while and was looking at the wrong list. Could it warn me when that happens?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3065,
+    "filed_at": "2026-08-19T08:07:14.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Gone before she could answer",
+    "body": "Ironvale's phone went last night and by the time she had it in her hand the job had already gone to somebody else. She was not far from it. Is there a set amount of time before it moves on?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3066,
+    "filed_at": "2026-08-19T09:48:19.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Saved filters — how do I clear them?",
+    "body": "The console now remembers my filters, which is good, but I cannot find a way to clear them all at once. I have to untick each one.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3067,
+    "filed_at": "2026-08-19T15:31:38.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Profile photo will not update",
+    "body": "I uploaded a new photo for Cindermark twice and the old one still shows in the console. Cleared my browser and tried a different computer. Same result.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3068,
+    "filed_at": "2026-08-19T17:39:16.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Handler handover notes",
+    "body": "When I hand over to the overnight handler, there is nowhere in the console to leave a note for them. We use a paper notebook at the moment. A shared notes area would help.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3069,
+    "filed_at": "2026-08-19T20:57:37.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Request: show when gear is due back",
+    "body": "When The Undertow's equipment is out for maintenance, the console shows that it is away but not when it is due back. A date would save me a phone call each time.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3070,
+    "filed_at": "2026-08-20T10:06:29.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Corporal Ashgrove's phone has not gone off in 3 days",
+    "body": "Corporal Ashgrove's phone has not gone off in three days, which is not like him at all. I have checked his availability and everything is set to available. Nothing looks wrong on our side. Could someone check yours?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3071,
+    "filed_at": "2026-08-20T11:22:34.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Hardly anything for Farlight this week",
+    "body": "Farlight has had four pings in the past seven days. Before the middle of August she was getting about twelve a week. Her availability is set correctly and her tags are all there.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3072,
+    "filed_at": "2026-08-20T12:36:22.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Filters went back to default",
+    "body": "My saved filters disappeared this morning and the console went back to showing everyone. I did not notice for a while and was looking at the wrong list. Could it warn me when that happens?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3073,
+    "filed_at": "2026-08-20T19:26:19.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Hardly anything for The Undertow this week",
+    "body": "The Undertow has had six pings in the past seven days. Before the middle of August he was getting about twelve a week. His availability is set correctly and his tags are all there.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3074,
+    "filed_at": "2026-08-21T08:52:57.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Vest plate replacement",
+    "body": "Nightwell has a cracked vest plate. I have ordered a replacement, but the priority field on the requisition does not seem to change how quickly it moves. How do I mark something as genuinely urgent?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3075,
+    "filed_at": "2026-08-21T09:31:46.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Question about billing",
+    "body": "Our invoice this month lists The Undertow twice. He is one person. Could someone check it?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3076,
+    "filed_at": "2026-08-21T09:51:26.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Saved filters — how do I clear them?",
+    "body": "The console now remembers my filters, which is good, but I cannot find a way to clear them all at once. I have to untick each one.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3077,
+    "filed_at": "2026-08-21T21:49:58.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "It vanished before he could swipe",
+    "body": "Stormwrack asked me to pass this on: \"phone buzzed, by the time i unlocked it, gone.\" That was this afternoon. Could someone look at what happened?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3078,
+    "filed_at": "2026-08-22T09:37:30.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "It vanished before he could swipe",
+    "body": "Cindermark asked me to pass this on: \"phone buzzed, by the time i unlocked it, gone.\" That was yesterday afternoon. Could someone look at what happened?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3079,
+    "filed_at": "2026-08-22T13:27:16.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Password reset email slow",
+    "body": "The password reset email took almost an hour to arrive this morning. I was locked out of the console for all of that time.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3080,
+    "filed_at": "2026-08-22T14:49:08.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "The Undertow much quieter than usual",
+    "body": "Flagging for the record. The Undertow is getting far fewer jobs than he used to: five pings in the last week against a usual twelve. He is not complaining, but he has noticed, and so have I.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3081,
+    "filed_at": "2026-08-22T16:55:10.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Farlight much quieter than usual",
+    "body": "Flagging for the record. Farlight is getting far fewer jobs than she used to: two pings in the last week against a usual twelve. She is not complaining, but she has noticed, and so have I.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3082,
+    "filed_at": "2026-08-23T10:20:56.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Responder list sorting",
+    "body": "The list of responders on my screen sorts by when they were added, not by name. Could it remember the order I choose?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3083,
+    "filed_at": "2026-08-23T12:47:36.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Hardly anything for Corporal Ashgrove this week",
+    "body": "Corporal Ashgrove has had six pings in the past seven days. Before the middle of August he was getting about ten a week. His availability is set correctly and his tags are all there.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3084,
+    "filed_at": "2026-08-23T13:38:20.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Responder detail panel covers the map",
+    "body": "The responder detail panel opens on top of the map, so I cannot see where Farlight is while I am reading her details. Could it open to the side?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3085,
+    "filed_at": "2026-08-23T16:46:23.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Filter remembered on the wrong computer",
+    "body": "I use the console on two computers. The filters I save on one do not appear on the other. Is that expected?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3086,
+    "filed_at": "2026-08-23T18:32:30.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Hardly anything for Halfmoon this week",
+    "body": "Halfmoon has had eight pings in the past seven days. Before the middle of August she was getting about eleven a week. Her availability is set correctly and her tags are all there.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3087,
+    "filed_at": "2026-08-24T10:50:31.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Capability tag legend hard to find",
+    "body": "The list explaining what each capability tag means is buried behind the responder detail panel. I only need it now and then, but when I do I can never remember where it lives.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3088,
+    "filed_at": "2026-08-24T15:09:53.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "The Undertow's phone has not gone off in 3 days",
+    "body": "The Undertow's phone has not gone off in three days, which is not like him at all. I have checked his availability and everything is set to available. Nothing looks wrong on our side. Could someone check yours?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3089,
+    "filed_at": "2026-08-24T16:30:33.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Still very quiet for Farlight",
+    "body": "Still very quiet. Three pings for Farlight in the last seven days. I would like to understand whether something has changed with her account. I would rather know than guess.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3090,
+    "filed_at": "2026-08-25T09:49:13.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Notes field cuts off",
+    "body": "The notes box on Sgt. Falkirk's profile stops at what looks like 250 characters. I keep notes about medical and equipment needs there and it is not enough room.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3091,
+    "filed_at": "2026-08-25T10:52:03.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Ping moved on while The Longcast was reaching for the phone",
+    "body": "The Longcast says he had his thumb on the screen yesterday afternoon and it switched to someone else. He was not happy. Is that expected?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3092,
+    "filed_at": "2026-08-25T13:14:10.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Grapple line retracts at wrong speed in cold weather",
+    "body": "Corporal Ashgrove's grapple line reels back in much slower when it is below freezing. We noticed it on two night jobs this month. I have filed a field failure report as well, but wanted to raise it here in case it is a known issue.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3093,
+    "filed_at": "2026-08-25T15:36:54.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Cold-weather gloves wearing through",
+    "body": "The cold-weather gloves are wearing through at the fingertips after about a month. Nightwell goes through a pair a month. Is there a sturdier option?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3094,
+    "filed_at": "2026-08-25T16:26:14.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Incident feed scrolls back to the top",
+    "body": "When a new incident comes in, the feed jumps back to the top and I lose my place. I was halfway down reading something.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3095,
+    "filed_at": "2026-08-25T20:08:33.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Equipment catalog search",
+    "body": "Searching the equipment catalog for \"plate\" gives me forty results and most of them have nothing to do with armor. Could we have category filters, or search by what the item is for?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3096,
+    "filed_at": "2026-08-26T08:59:48.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Nothing coming through for The Undertow",
+    "body": "Nothing has come through for The Undertow since Friday 21 August. He usually gets several a week. He asked me this morning whether his account is still active. It is, as far as I can see.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3097,
+    "filed_at": "2026-08-26T11:55:43.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Corporal Ashgrove much quieter than usual",
+    "body": "Flagging for the record. Corporal Ashgrove is getting far fewer jobs than he used to: seven pings in the last week against a usual ten. He is not complaining, but he has noticed, and so have I.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3098,
+    "filed_at": "2026-08-26T12:41:56.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Halfmoon much quieter than usual",
+    "body": "Flagging for the record. Halfmoon is getting far fewer jobs than she used to: eight pings in the last week against a usual eleven. She is not complaining, but she has noticed, and so have I.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3099,
+    "filed_at": "2026-08-26T13:01:27.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Nothing coming through for Farlight",
+    "body": "Nothing has come through for Farlight since Sunday 23 August. She usually gets several a week. She asked me this morning whether her account is still active. It is, as far as I can see.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3100,
+    "filed_at": "2026-08-26T17:50:18.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Thank you for saving filters",
+    "body": "Not a problem, just a thank you. Having the console keep my filters has saved me a few minutes every shift.",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3101,
+    "filed_at": "2026-08-27T08:19:22.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Field failure report — no reply",
+    "body": "I filed a field failure report about The Drift's boots three weeks ago. I can see it on the item's history, but nobody has been in touch. Does anyone read these?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3102,
+    "filed_at": "2026-08-27T17:54:28.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Gear delivered to the wrong office",
+    "body": "A box of replacement lenses for Cindermark arrived at your office in Cornwall instead of coming to us. Someone there kindly called me. How do I make sure our address is right on the order?",
+    "status": "closed"
+  },
+  {
+    "ticket_number": 3103,
+    "filed_at": "2026-08-28T08:42:46.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Is Farlight still on the list?",
+    "body": "Following up. It has now been five days since Farlight's phone last went off. She has started asking me every day whether something is broken. I do not know what to tell her.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3104,
+    "filed_at": "2026-08-28T09:14:16.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Still very quiet for The Undertow",
+    "body": "Still very quiet. Two pings for The Undertow in the last seven days. I would like to understand whether something has changed with his account. I would rather know than guess.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3105,
+    "filed_at": "2026-08-28T12:17:39.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Dark mode, again",
+    "body": "Adding my name to the list of people asking for a dark theme. I have seen other handlers ask on the forum. Working from 10pm to 6am with a white screen is hard on the eyes.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3106,
+    "filed_at": "2026-08-28T16:33:38.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Can I export Corporal Ashgrove's history?",
+    "body": "I would like to download a list of the jobs Corporal Ashgrove has done this year, for our own records. I can see them one at a time on screen but cannot find a way to save them.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3107,
+    "filed_at": "2026-08-28T20:17:13.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Console logs me out too often",
+    "body": "The console signs me out after what feels like twenty minutes of not clicking anything. On a quiet shift I am watching it, not clicking it, and then I have to sign in again at the worst moment.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3108,
+    "filed_at": "2026-08-29T08:12:05.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Still very quiet for Halfmoon",
+    "body": "Still very quiet. Seven pings for Halfmoon in the last seven days. I would like to understand whether something has changed with her account. I would rather know than guess.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3109,
+    "filed_at": "2026-08-29T09:35:09.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Maintenance booked on a bad day",
+    "body": "The maintenance schedule booked Ironvale's suit in for servicing on the day of the city marathon, which is always one of our busiest days. Can I move it myself, or does someone at your end need to?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3110,
+    "filed_at": "2026-08-29T13:28:20.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "First one in 5 days and she missed it",
+    "body": "Separate from my earlier tickets about the quiet stretch. Something finally came in for Farlight last night, the first in five days, and it was gone before she could answer. Given how long she had been waiting, this landed badly. Could someone look at what happened here?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3111,
+    "filed_at": "2026-08-29T15:02:15.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Wrong size delivered",
+    "body": "The Undertow's new gloves arrived in the wrong size. The requisition says large, the box says medium. What is the quickest way to swap them?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3112,
+    "filed_at": "2026-08-30T08:54:09.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Is The Undertow still on the list?",
+    "body": "Following up. It has now been three days since The Undertow's phone last went off. He has started asking me every day whether something is broken. I do not know what to tell him.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3113,
+    "filed_at": "2026-08-30T10:13:06.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Lost one last night",
+    "body": "Cindermark lost one last night. The phone buzzed, he unlocked it, and it was gone. He says it has happened more than once lately.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3114,
+    "filed_at": "2026-08-30T11:28:17.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Hardly anything for Farlight this week",
+    "body": "Farlight has had two pings in the past seven days. Before the middle of August she was getting about twelve a week. Her availability is set correctly and her tags are all there.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3115,
+    "filed_at": "2026-08-30T12:37:24.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Filters saved but the wrong ones",
+    "body": "The console kept my filters, but it kept the ones from my colleague's shift, not mine. We share a computer. Can each sign-in have its own?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3116,
+    "filed_at": "2026-08-30T14:25:24.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Availability window when traveling",
+    "body": "Stormwrack is working from a different city for two weeks. When I set his availability hours, the console seems to use my time zone, not the one he is in. Which one does it use?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3117,
+    "filed_at": "2026-08-30T15:18:37.000Z",
+    "filed_by": "Farid Haddad",
+    "about_responder": "Cindermark",
+    "subject": "Dark mode for the console",
+    "body": "Is there any plan for a dark version of the console? I work nights and it is the brightest thing in the room by a long way. I have turned my screen down as far as it goes.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3118,
+    "filed_at": "2026-08-30T18:42:36.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Still very quiet for Corporal Ashgrove",
+    "body": "Still very quiet. Seven pings for Corporal Ashgrove in the last seven days. I would like to understand whether something has changed with his account. I would rather know than guess.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3119,
+    "filed_at": "2026-08-31T17:50:16.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Keyboard shortcuts",
+    "body": "Are there keyboard shortcuts for the console? I would like to switch between the coverage view and the incident feed without reaching for the mouse.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3120,
+    "filed_at": "2026-09-01T08:55:30.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Farlight asked me to pass this on",
+    "body": "Farlight asked me to pass this on in her own words: \"nothing again this week. starting to wonder if im still even in the system.\" It has been four days since her last one.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3121,
+    "filed_at": "2026-09-01T10:32:45.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "The Undertow asked me to pass this on",
+    "body": "The Undertow asked me to pass this on in his own words: \"nothing again this week. starting to wonder if im still even in the system.\" It has been five days since his last one.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3122,
+    "filed_at": "2026-09-01T12:40:57.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Boot resole taking too long",
+    "body": "The Drift's boots went in for a resole and the estimated return date has moved twice. He is managing with his spare pair, but they are not rated for the cold.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3123,
+    "filed_at": "2026-09-01T15:16:55.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Lost one this morning",
+    "body": "Nightwell lost one this morning. The phone buzzed, she unlocked it, and it was gone. She says it has happened more than once lately.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3124,
+    "filed_at": "2026-09-01T16:47:35.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Filter badge hard to see",
+    "body": "Now that filters stay on between sessions, I sometimes forget one is on. The small badge showing a filter is active is easy to miss.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3125,
+    "filed_at": "2026-09-01T19:56:27.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Spare mask on back order",
+    "body": "Halfmoon's spare mask has been on back order for a month. Is there an alternative model that is in stock and rated the same?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3126,
+    "filed_at": "2026-09-02T08:48:49.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Maintenance reminder came after the date",
+    "body": "The reminder that Farlight's harness was due for servicing arrived two days after the service date. It would be more useful a week before.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3127,
+    "filed_at": "2026-09-02T13:32:27.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Same alert sound for everything",
+    "body": "Every alert on the console makes the same sound, so I have to look up every time to see what it is. Could there be a different sound for different kinds of alert?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3128,
+    "filed_at": "2026-09-02T20:27:04.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Requisition waiting on approval for over a week",
+    "body": "I put in a requisition for a replacement grapple line for Nightwell nine days ago and it is still waiting for a quartermaster to sign it. Is there anything I can do to move it along?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3129,
+    "filed_at": "2026-09-03T08:26:43.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Hardly anything for Halfmoon this week",
+    "body": "Halfmoon has had seven pings in the past seven days. Before the middle of August she was getting about eleven a week. Her availability is set correctly and her tags are all there.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3130,
+    "filed_at": "2026-09-03T09:44:52.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Farlight's phone has not gone off in 6 days",
+    "body": "Farlight's phone has not gone off in six days, which is not like her at all. I have checked her availability and everything is set to available. Nothing looks wrong on our side. Could someone check yours?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3131,
+    "filed_at": "2026-09-03T09:53:11.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "The Undertow's phone has not gone off in 7 days",
+    "body": "The Undertow's phone has not gone off in seven days, which is not like him at all. I have checked his availability and everything is set to available. Nothing looks wrong on our side. Could someone check yours?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3132,
+    "filed_at": "2026-09-03T10:25:54.000Z",
+    "filed_by": "Beatrice Calloway",
+    "about_responder": "The Drift",
+    "subject": "Cannot change The Drift's phone number",
+    "body": "The Drift has a new phone number. The profile page will not let me save the new one; it says the format is wrong, but it is a normal number.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3133,
+    "filed_at": "2026-09-03T17:44:46.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Console slow on Monday mornings",
+    "body": "Every Monday between about 8 and 9 the console takes a long time to load the coverage view. Other days it is fine. Not urgent, but it happens every week.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3134,
+    "filed_at": "2026-09-04T08:38:56.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Filters reset after update",
+    "body": "Twice now my saved filters have been wiped overnight. I assume there was an update. I would rather it told me than quietly reset.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3135,
+    "filed_at": "2026-09-04T10:19:41.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Hardly anything for Corporal Ashgrove this week",
+    "body": "Corporal Ashgrove has had seven pings in the past seven days. Before the middle of August he was getting about ten a week. His availability is set correctly and his tags are all there.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3136,
+    "filed_at": "2026-09-04T11:07:31.000Z",
+    "filed_by": "Marjorie Sung",
+    "about_responder": "Nightwell",
+    "subject": "Profile photo will not update",
+    "body": "I uploaded a new photo for Nightwell twice and the old one still shows in the console. Cleared my browser and tried a different computer. Same result.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3137,
+    "filed_at": "2026-09-04T16:04:47.000Z",
+    "filed_by": "Yusuf Demir",
+    "about_responder": "Corporal Ashgrove",
+    "subject": "Screen reader support",
+    "body": "One of our handlers uses a screen reader. Several buttons on the console are read out as \"button\" with no name, so she cannot tell them apart.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3138,
+    "filed_at": "2026-09-05T09:13:59.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Nothing coming through for The Undertow",
+    "body": "Nothing has come through for The Undertow since Thursday 27 August. He usually gets several a week. He asked me this morning whether his account is still active. It is, as far as I can see.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3139,
+    "filed_at": "2026-09-05T17:58:43.000Z",
+    "filed_by": "Linda Pruitt",
+    "about_responder": "Farlight",
+    "subject": "Nothing coming through for Farlight",
+    "body": "Nothing has come through for Farlight since Friday 28 August. She usually gets several a week. She asked me this morning whether her account is still active. It is, as far as I can see.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3140,
+    "filed_at": "2026-09-05T18:17:47.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "First one in 9 days and he missed it",
+    "body": "Separate from my earlier tickets about the quiet stretch. Something finally came in for The Undertow this afternoon, the first in nine days, and it was gone before he could answer. Given how long he had been waiting, this landed badly. Could someone look at what happened here?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3141,
+    "filed_at": "2026-09-05T20:26:10.000Z",
+    "filed_by": "Renata Kovač",
+    "about_responder": "Stormwrack",
+    "subject": "Second handler access",
+    "body": "My colleague covers for me two nights a week. Can she have her own sign-in for Stormwrack's account rather than using mine?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3142,
+    "filed_at": "2026-09-06T14:44:31.000Z",
+    "filed_by": "Owen Bramwell",
+    "about_responder": "Sgt. Falkirk",
+    "subject": "Text on status badges is too small",
+    "body": "The engaged and available badges are hard to tell apart unless I lean right in to the screen. A larger size or a stronger color difference would help a great deal.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3143,
+    "filed_at": "2026-09-06T18:23:32.000Z",
+    "filed_by": "Teresa Alvarez",
+    "about_responder": "Ironvale",
+    "subject": "Request: mark a responder as on leave",
+    "body": "Ironvale is away on leave for a week. There is no way to show that in the console except setting her unavailable, which looks the same as being busy. A leave status would help.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3144,
+    "filed_at": "2026-09-07T08:11:52.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Training for a new handler",
+    "body": "We have a new handler starting next month. Is there any training material or a guided tour of the console we can give them?",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3145,
+    "filed_at": "2026-09-07T09:23:25.000Z",
+    "filed_by": "Desmond Okafor",
+    "about_responder": "The Undertow",
+    "subject": "Hardly anything for The Undertow this week",
+    "body": "The Undertow has had one ping in the past seven days. Before the middle of August he was getting about twelve a week. His availability is set correctly and his tags are all there.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3146,
+    "filed_at": "2026-09-07T13:14:48.000Z",
+    "filed_by": "Graham Petrov",
+    "about_responder": "The Longcast",
+    "subject": "Map in the incident view is out of date",
+    "body": "The street map in the incident view still shows the old road layout by the ferry terminal. The new road opened in the spring.",
+    "status": "open"
+  },
+  {
+    "ticket_number": 3147,
+    "filed_at": "2026-09-07T18:09:53.000Z",
+    "filed_by": "Simone Fischer",
+    "about_responder": "Halfmoon",
+    "subject": "Halfmoon much quieter than usual",
+    "body": "Flagging for the record. Halfmoon is getting far fewer jobs than she used to: eight pings in the last week against a usual eleven. She is not complaining, but she has noticed, and so have I.",
+    "status": "open"
+  }
+]
+

@@ -1,0 +1,143 @@
+{
+  "reviewed_at": "2026-11-13T01:17:26.469577+00:00",
+  "purpose": "Assignment artifact/evidence audit, not grading",
+  "checks_run": 13,
+  "passed": 13,
+  "successful": true,
+  "checks": [
+    {
+      "name": "Required artifacts",
+      "passed": true,
+      "detail": {
+        "required_files": 9,
+        "original_scenario": "present"
+      }
+    },
+    {
+      "name": "Scope and compact context",
+      "passed": true,
+      "detail": {
+        "scope": "unchanged",
+        "words": 716,
+        "history": "preserved"
+      }
+    },
+    {
+      "name": "Original prompt preservation",
+      "passed": true,
+      "detail": {
+        "01-origin-story": 5,
+        "02-super-hearing": 5,
+        "03-rewind": 1,
+        "04-x-ray-vision": 1,
+        "05-super-speed": 1,
+        "06-sidekicks": 4
+      }
+    },
+    {
+      "name": "Interview counts and exact evidence",
+      "passed": true,
+      "detail": {
+        "interviews": 4,
+        "themes": 11,
+        "positive_cells_with_exact_quotes": 17
+      }
+    },
+    {
+      "name": "All ticket classifications and dated totals",
+      "passed": true,
+      "detail": {
+        "tickets": 147,
+        "specific_groups": 56,
+        "periods": {
+          "before": 40,
+          "release_day": 2,
+          "after": 105
+        },
+        "representative_quotes_verified": 56
+      }
+    },
+    {
+      "name": "Cross-source comparison",
+      "passed": true,
+      "detail": {
+        "overlapping_responders": [
+          "Captain Vantage"
+        ],
+        "comparison_ticket_quotes_verified": 10
+      }
+    },
+    {
+      "name": "Zero-inclusive metric reconciliation",
+      "passed": true,
+      "detail": {
+        "pings": 1696,
+        "callouts": 1319,
+        "responder_weeks": 160,
+        "baseline_offers_per_week": 49,
+        "final_week_offers": 3
+      }
+    },
+    {
+      "name": "Original routing hashes",
+      "passed": true,
+      "detail": {
+        "unchanged_source_files": 5
+      }
+    },
+    {
+      "name": "Saved validation records",
+      "passed": true,
+      "detail": {
+        "saved_passing_checks": {
+          "mechanism": 16,
+          "prototype": 23,
+          "review_state": 18,
+          "metric_reconciliation": 10
+        },
+        "note": "Historical records; this audit does not relabel them as fresh reruns."
+      }
+    },
+    {
+      "name": "Two actual skill runs",
+      "passed": true,
+      "detail": {
+        "actual_manual_runs": 2,
+        "judgments_per_run": 16,
+        "future_scheduler_trigger": "not claimed"
+      }
+    },
+    {
+      "name": "Revised skill and schedule registration",
+      "passed": true,
+      "detail": {
+        "skill_hash_matches": true,
+        "schedule_registration": "ACTIVE",
+        "timezone_and_first_trigger": "documented operational follow-ups"
+      }
+    },
+    {
+      "name": "Deliverable links",
+      "passed": true,
+      "detail": {
+        "local_targets_checked": 201,
+        "report_anchors": 20
+      }
+    },
+    {
+      "name": "Official rubric and explicit limits",
+      "passed": true,
+      "detail": {
+        "rubric_criteria": 4,
+        "source": "User-supplied official brief, corroborated in LMS",
+        "grade": "Not assigned by this audit"
+      }
+    }
+  ],
+  "separate_verification": {
+    "report_browser_print": "submission/report-validation.json",
+    "github": "Verify Public repo and matching local/remote commits after final save",
+    "lms_submission": "Not performed",
+    "instructor_score": "Not knowable in advance"
+  }
+}

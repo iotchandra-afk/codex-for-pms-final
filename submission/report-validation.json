@@ -1,0 +1,69 @@
+{
+  "reviewed_at": "2026-11-13T01:16:46.491Z",
+  "tests_run": 13,
+  "passed": 13,
+  "failed": 0,
+  "successful": true,
+  "results": [
+    {
+      "name": "01 executive conclusion and seven linked sections render",
+      "passed": true
+    },
+    {
+      "name": "02 complementary metric views switch with correct state",
+      "passed": true
+    },
+    {
+      "name": "03 metric switch supports keyboard activation",
+      "passed": true
+    },
+    {
+      "name": "04 every local report link and anchor resolves",
+      "passed": true
+    },
+    {
+      "name": "05 navigation reaches mechanism and exposes current location",
+      "passed": true
+    },
+    {
+      "name": "06 prototype walkthrough details expand and working artifact loads",
+      "passed": true
+    },
+    {
+      "name": "07 local screenshot asset loads without an external request",
+      "passed": true
+    },
+    {
+      "name": "08 mobile 390px view has no document overflow",
+      "passed": true
+    },
+    {
+      "name": "09 tablet 768px view has no document overflow",
+      "passed": true
+    },
+    {
+      "name": "10 report print contains both metric views and all seven sections",
+      "passed": true
+    },
+    {
+      "name": "11 compact AGENTS context prints within two pages",
+      "passed": true
+    },
+    {
+      "name": "12 product brief prints within one page",
+      "passed": true
+    },
+    {
+      "name": "13 report uses no external resources and raises no browser errors",
+      "passed": true
+    }
+  ],
+  "print_pages": {
+    "report": 10,
+    "agents": 2,
+    "brief": 1
+  },
+  "browser_errors": [],
+  "external_resource_requests": [],
+  "scope": "Actual local final-report HTML, source links, keyboard interaction, responsive layout and print QA; not an instructor grade or LMS submission."
+}

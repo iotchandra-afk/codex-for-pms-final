@@ -1,73 +1,15 @@
 {
-  "run_id": "manual-2026-11-12",
+  "run_id": "manual-2-2026-11-12",
   "run_type": "manual",
-  "reviewed_at": "2026-11-13T00:35:58+00:00",
+  "reviewed_at": "2026-11-13T01:03:04Z",
   "complete": true,
   "brief_count": 4,
   "flag_count": 4,
-  "status": "baseline_created",
-  "should_surface": true,
+  "status": "unchanged",
+  "should_surface": false,
   "access_restored": false,
   "baseline_preserved": false,
-  "new": [
-    {
-      "source_id": "3eac8516-f501-81b5-bf1e-fe6be35d119a",
-      "title": "Bulk Callout",
-      "url": "https://app.notion.com/p/3eac8516f50181b5bf1efe6be35d119a",
-      "criterion": "owner_named",
-      "evidence": [
-        "Flagging this for whoever picks it up next quarter.",
-        "nobody's picked it up yet."
-      ],
-      "reason": "No accountable owner is assigned anywhere in the complete brief; contributors are mentioned as dependencies.",
-      "business_impact": "Unowned coordination work can remain a commitment without a delivery decision or accountable tradeoff.",
-      "next_action": "Name an accountable owner or team and state whether it is accepted or proposed.",
-      "fingerprint": "a95a60f899a434a37e59dbfd8c6ed56057effeba872be679345d75233da20037"
-    },
-    {
-      "source_id": "3eac8516-f501-81b9-b6c9-fa532191342f",
-      "title": "Handler Phone App",
-      "url": "https://app.notion.com/p/3eac8516f50181b9b6c9fa532191342f",
-      "criterion": "problem_before_solution",
-      "evidence": [
-        "We should build a phone app for handlers."
-      ],
-      "reason": "The first substantive sentence commits to a phone app before establishing the handler's notification/awareness problem.",
-      "business_impact": "The team may commit to a platform build before comparing smaller ways to restore timely handler awareness.",
-      "next_action": "Open with the handler problem and evidence, then compare or justify the phone app as a response.",
-      "fingerprint": "3f0a0405158fe6c3161a70dbb2879a0f0015007097f175b19b0b585e2bac868c"
-    },
-    {
-      "source_id": "3eac8516-f501-81bd-80c0-fbde07980760",
-      "title": "Requisition Approval Chains",
-      "url": "https://app.notion.com/p/3eac8516f50181bd80c0fbde07980760",
-      "criterion": "scope_bounded",
-      "evidence": [
-        "That's the whole ask.",
-        "route around a slow approver if they haven't responded in 48 hours",
-        "a dashboard showing every pending approval across all three sites",
-        "How much of the above ships together versus in phases — TBD."
-      ],
-      "reason": "A second approval expands into escalation routing, a cross-site dashboard, handler visibility and possible spreadsheet replacement; the current release boundary is unresolved.",
-      "business_impact": "Approval control can become a multi-workflow program, obscuring delivery cost and delaying needed procurement decisions.",
-      "next_action": "Define the first release as one bounded approval change; explicitly defer or separately approve the other workstreams.",
-      "fingerprint": "ff2d6a142fcbc2b0d247339f8b796f762eb099cc65c41670a87a341452367e13"
-    },
-    {
-      "source_id": "3eac8516-f501-81bf-80ef-f897b294a174",
-      "title": "Routing Override Audit Log",
-      "url": "https://app.notion.com/p/3eac8516f50181bf80eff897b294a174",
-      "criterion": "success_measure",
-      "evidence": [
-        "Log every manual override: who made it, when, which responder they picked instead of the recommended one, and a short reason if they typed one.",
-        "Small, contained, ready to build."
-      ],
-      "reason": "The full brief describes records and readiness to build but does not state how successful traceability will be measured.",
-      "business_impact": "Shipping a log may not make disputed routing decisions traceable when support needs them.",
-      "next_action": "Define an observable completeness or support-traceability measure, its denominator and target; assign baseline ownership.",
-      "fingerprint": "e4328271c053fa832c55e37f0816ecf1661b57094e202cb34779d052dfadc481"
-    }
-  ],
+  "new": [],
   "changed": [],
   "resolved": [],
   "removed_sources": []

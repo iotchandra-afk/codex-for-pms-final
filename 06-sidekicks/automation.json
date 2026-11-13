@@ -15,6 +15,17 @@
   "outputs": "06-sidekicks/reviews/",
   "user_visible_output": "Meaningful issue changes, source removals and new access failures/recovery; unchanged successful runs stay quiet.",
   "runtime_dependency": "For local-folder work, keep the computer on, app running, repo available, and Rook wiki connection accessible.",
-  "verification": "App create and update responses reported the same automation ID with status ACTIVE. The view tool rendered a user-visible automation card; no expanded MCP App was available for model-side DOM inspection."
+  "verification": "App create and update responses reported the same automation ID with status ACTIVE. The view tool rendered a user-visible automation card; no expanded MCP App was available for model-side DOM inspection.",
+  "actual_manual_runs": [
+    "manual-2026-11-12",
+    "manual-2-2026-11-12"
+  ],
+  "last_registration_verification": {
+    "action": "update existing automation",
+    "automationId": "rook-product-brief-review",
+    "status": "ACTIVE",
+    "date": "2026-11-12",
+    "prompt_file": "06-sidekicks/scheduled-review-prompt.md"
+  },
+  "assignment_requirement": "Skill executed twice manually and registered on a schedule. A future weekly trigger is not stated as a pre-submission requirement."
 }
-

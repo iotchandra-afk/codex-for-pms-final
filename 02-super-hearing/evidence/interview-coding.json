@@ -1,0 +1,158 @@
+{
+  "reviewed_at": "2026-11-13T01:03:04Z",
+  "scenario": "Fictional Rook Industries coursework",
+  "source_count": 4,
+  "unit": "A theme is counted once per interview, never per mention; themes overlap.",
+  "sources": [
+    {
+      "key": "aunt-dot",
+      "id": "3eac8516-f501-81a0-bf04-dd3b61063feb",
+      "handler": "Aunt Dot",
+      "date": "2026-09-03",
+      "url": "https://app.notion.com/p/3eac8516f50181a0bf04dd3b61063feb",
+      "snapshot": "evidence/interviews/aunt-dot.md"
+    },
+    {
+      "key": "ambrose",
+      "id": "3eac8516-f501-8149-9a11-d78c4982adee",
+      "handler": "Mr. Ambrose",
+      "date": "2026-09-02",
+      "url": "https://app.notion.com/p/3eac8516f50181499a11d78c4982adee",
+      "snapshot": "evidence/interviews/ambrose.md"
+    },
+    {
+      "key": "halloran",
+      "id": "3eac8516-f501-8132-add7-d1b2e2aa6cb6",
+      "handler": "Halloran",
+      "date": "2026-09-05",
+      "url": "https://app.notion.com/p/3eac8516f5018132add7d1b2e2aa6cb6",
+      "snapshot": "evidence/interviews/halloran.md"
+    },
+    {
+      "key": "kip",
+      "id": "3eac8516-f501-815f-9b0b-c8b80e97d20a",
+      "handler": "Kip",
+      "date": "2026-09-04",
+      "url": "https://app.notion.com/p/3eac8516f501815f9b0bc8b80e97d20a",
+      "snapshot": "evidence/interviews/kip.md"
+    }
+  ],
+  "themes": [
+    {
+      "id": "offer_expires",
+      "theme": "Offer disappears before the responder can answer",
+      "impact": "A willing response can be lost before it becomes an assignment; investigate timing separately from allocation.",
+      "evidence": {
+        "aunt-dot": "by the time he's actually got a thumb on the screen — it's gone.",
+        "ambrose": "the young master was halfway into the suit — coat on, one boot on — when it went to somebody else.",
+        "halloran": "Bulwark mentioned a callout went to someone else before he'd even got his boots on"
+      },
+      "count": 3,
+      "denominator": 4
+    },
+    {
+      "id": "quiet_uneven",
+      "theme": "Quiet stretches or unexplained differences in work",
+      "impact": "Customers cannot tell whether Dispatch still considers them for work; aggregate acceptance may hide lost access.",
+      "evidence": {
+        "aunt-dot": "there have been stretches, more than one, where the phone just sits there and sits there",
+        "kip": "Mite thinks Mite's been forgotten. Gale's exhausted."
+      },
+      "count": 2,
+      "denominator": 4
+    },
+    {
+      "id": "readability",
+      "theme": "Text or status badges are hard to read at a glance",
+      "impact": "Handlers lose awareness while working at normal viewing distances.",
+      "evidence": {
+        "aunt-dot": "the text is small enough that from a normal standing distance I sometimes can't tell if something's changed unless I lean right in",
+        "ambrose": "Larger text on the status badge."
+      },
+      "count": 2,
+      "denominator": 4
+    },
+    {
+      "id": "handler_awareness",
+      "theme": "Handler alerts are missing, easy to miss or hard to distinguish",
+      "impact": "The person coordinating readiness cannot reliably identify a live offer or which responder needs attention.",
+      "evidence": {
+        "aunt-dot": "maybe something that tells me too, not just him, when something's come in",
+        "ambrose": "I would want whatever tells me a callout is live to be harder to miss, not easier.",
+        "kip": "I want the alert sound to be different for each of them"
+      },
+      "count": 3,
+      "denominator": 4
+    },
+    {
+      "id": "filter_reset",
+      "theme": "Saved filters reset without warning",
+      "impact": "The handler monitors an unintended view and loses trust in persistence.",
+      "evidence": {
+        "ambrose": "Twice now it's reverted to the default view"
+      },
+      "count": 1,
+      "denominator": 4
+    },
+    {
+      "id": "tag_legend",
+      "theme": "Capability-tag definitions are hard to reach",
+      "impact": "Intermittent lookup interrupts the handler's work; the participant calls this non-urgent.",
+      "evidence": {
+        "ambrose": "The capability tag legend. It sits in a drawer off the responder detail panel"
+      },
+      "count": 1,
+      "denominator": 4
+    },
+    {
+      "id": "dark_mode",
+      "theme": "Console brightness makes night work uncomfortable",
+      "impact": "Repeated exposure affects the whole shift; the workaround degrades other screens.",
+      "evidence": {
+        "kip": "I just want an actual dark theme built in."
+      },
+      "count": 1,
+      "denominator": 4
+    },
+    {
+      "id": "approval_delay",
+      "theme": "Requisition approvals take too long",
+      "impact": "A responder can remain in the field with damaged protective equipment while approval waits.",
+      "evidence": {
+        "halloran": "it sat waiting on a quartermaster signature for eleven days."
+      },
+      "count": 1,
+      "denominator": 4
+    },
+    {
+      "id": "urgent_priority",
+      "theme": "Urgent equipment requests share an ineffective priority queue",
+      "impact": "Protective-equipment replacement competes with routine items despite an urgency flag.",
+      "evidence": {
+        "halloran": "One queue, everything in it, doesn't matter if it's laces or plate."
+      },
+      "count": 1,
+      "denominator": 4
+    },
+    {
+      "id": "failure_feedback",
+      "theme": "Field-failure reports have no visible follow-up",
+      "impact": "Handlers cannot see whether reporting changes maintenance or equipment decisions.",
+      "evidence": {
+        "halloran": "I file a failure report and it goes into a void."
+      },
+      "count": 1,
+      "denominator": 4
+    },
+    {
+      "id": "catalog_search",
+      "theme": "Equipment catalog search returns broad or irrelevant results",
+      "impact": "Handlers spend time finding suitable equipment and ask for category filters.",
+      "evidence": {
+        "halloran": "I typed \"plate\" the other week looking for the vest plate and got forty results, half of them unrelated"
+      },
+      "count": 1,
+      "denominator": 4
+    }
+  ]
+}

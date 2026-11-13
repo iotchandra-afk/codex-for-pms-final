@@ -19,4 +19,12 @@ Proceed with Module 6 and work iteratively until completion. Keep the same busin
 
 ### 2.
 
+Review all six modules and confirm what's ready for course submission, what's still pending, and whether any gaps remain.
+
 ### 3.
+
+work iteratively to close these gaps and ensure a 100% score chance on submission, keeping rubric on mind.
+
+### 4.
+
+how is the rubric score looks like today?

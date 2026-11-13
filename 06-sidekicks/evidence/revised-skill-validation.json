@@ -1,0 +1,22 @@
+{
+  "validator": "Local YAML/frontmatter validation and direct semantic application of the revised skill; previous official-validator result is preserved separately.",
+  "successful": true,
+  "skill_sha256": "6b82a1fdd5b679a5719fd301ef96dc870b5355d83169c085705dfb77d20ba8ca",
+  "metadata": {
+    "name": "review-checklist",
+    "description": "Review product briefs for accountable ownership, an observable success measure, consistent scope from start to finish, and problem-first framing. Use when the user points to a brief for a quality check or for the scheduled Rook brief review."
+  },
+  "manual_runs": [
+    "manual-2026-11-12",
+    "manual-2-2026-11-12"
+  ],
+  "second_run": {
+    "type": "manual",
+    "briefs": 4,
+    "checks": 16,
+    "flags": 4,
+    "delta": "unchanged",
+    "should_surface": false
+  },
+  "limitation": "A future scheduler trigger has not been observed. No instructor score is implied."
+}

@@ -4,6 +4,10 @@ This is the course workspace for Product School's "Codex for PMs"
 certification. Everything about Rook Industries in this workspace is a
 fictional teaching scenario. It is not a real company.
 
+**Final project:** open [final-report.html](final-report.html) locally for the
+executive presentation, or read the [submission checklist](SUBMISSION.md) for
+the official rubric, deliverables and evidence.
+
 ## Getting started
 
 1. Paste the course setup prompt (the one-line prompt in your pre-class
