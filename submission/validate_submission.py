@@ -223,7 +223,7 @@ def deliverable_links():
         targets.extend((file, t) for t in re.findall(r"\]\(([^)]+)\)", file.read_text(encoding="utf-8-sig")))
     local = 0
     for file, target in targets:
-        if "://" in target:
+        if "://" in target or target.startswith("data:"):
             continue
         if target.startswith("#"):
             if file.suffix == ".html":

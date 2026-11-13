@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-11-13T01:17:26.469577+00:00",
+  "reviewed_at": "2026-11-13T01:29:59.606453+00:00",
   "purpose": "Assignment artifact/evidence audit, not grading",
   "checks_run": 13,
   "passed": 13,
@@ -120,8 +120,8 @@
       "name": "Deliverable links",
       "passed": true,
       "detail": {
-        "local_targets_checked": 201,
-        "report_anchors": 20
+        "local_targets_checked": 203,
+        "report_anchors": 23
       }
     },
     {

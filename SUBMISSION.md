@@ -1,6 +1,6 @@
 # Final project submission
 
-**Start with [final-report.html](final-report.html).** It is the required final presentation: an executive recommendation, source disagreement, metric verification, code mechanism, working recovery experience, two actual skill runs and a map to the official grading criteria.
+**Start with [final-report.html](final-report.html).** It is the required final presentation: an executive recommendation, source disagreement, metric verification, code mechanism, working recovery experience, two actual skill runs and a map to the official grading criteria. Six results are paired with six exact recorded user prompts; the actual prototype and visual assets are embedded for a single-file presentation.
 
 The [authoritative assignment](submission/assignment-brief.md) was supplied by the user and verified in the signed-in LMS. It replaces the earlier assumption that submission requirements were unavailable. No numeric grade or guarantee is inferred from this checklist.
 

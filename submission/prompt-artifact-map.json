@@ -1,0 +1,65 @@
+{
+  "purpose": "One exact recorded user prompt and actual result per module. Generated SQL and image instructions are not represented as user-authored prompts.",
+  "modules": [
+    {
+      "module": 1,
+      "prompt_file": "01-origin-story/prompts.md",
+      "prompt_number": 5,
+      "exact_prompt": "this lacks visual imagery, not relevant for executive audience with low attention span, doesn't meet viral content criteria.",
+      "artifact": "output/imagegen/rook-dispatch-executive-card-v2.png",
+      "supporting_source": "output/imagegen/rook-dispatch-executive-card-v2-prompt.txt",
+      "finding": "Your visual critique produced the executive reference card: diagnose the drop, find silent phones, verify routing intent, reconcile commitments, and check Supply. At onboarding, causation and recovery were still unverified."
+    },
+    {
+      "module": 2,
+      "prompt_file": "02-super-hearing/prompts.md",
+      "prompt_number": 3,
+      "exact_prompt": "too broad and unclassified",
+      "artifact": "02-super-hearing/support-ticket-classification.md",
+      "supporting_source": "02-super-hearing/README.md",
+      "finding": "The broad summary became a specific classification: all 147 tickets assigned once across 56 issues. Thirty report missing or reduced offers; follow-ups are not independent customers."
+    },
+    {
+      "module": 3,
+      "prompt_file": "03-rewind/prompts.md",
+      "prompt_number": 1,
+      "exact_prompt": "proceed with module 3 and work iteratively until completion. Use persona of native leader in this business space demonstrating rich business depth in decision making, verbiage, and deliverable (s) across all modules.",
+      "artifact": "03-rewind/decision-brief.md",
+      "supporting_source": "03-rewind/evidence/responder-weeks.json",
+      "finding": "Farlight, Vesper, The Undertow and Meteor Mite fall from 49 combined offers per week at baseline to three in the final week, while final-week acceptance reaches 72.7%. All 160 responder-weeks were retained."
+    },
+    {
+      "module": 4,
+      "prompt_file": "04-x-ray-vision/prompts.md",
+      "prompt_number": 1,
+      "exact_prompt": "Proceed with Module 4 and work iteratively until completion. Keep the same business-lead perspective and validate the routing mechanism against the Module 3 findings.",
+      "artifact": "04-x-ray-vision/routing-mechanism.md",
+      "supporting_source": "04-x-ray-vision/evidence/mechanism-validation.json",
+      "finding": "The same controlled 75-second response succeeds with a 90-second window and misses with 60. Missed and declined both reduce history by 0.12; a listed responder can then lose future offers."
+    },
+    {
+      "module": 5,
+      "prompt_file": "05-super-speed/prompts.md",
+      "prompt_number": 1,
+      "exact_prompt": "Proceed with Module 5 and work iteratively until completion. Keep the same business-lead perspective and use the Module 4 handoff to create the product brief and working prototype.",
+      "artifact": "05-super-speed/prototype.html",
+      "supporting_source": "05-super-speed/brief.md",
+      "finding": "Dispatch Ready Review connects Kip, Mite and operations through explanation, readiness, five fit checks, one illustrative offer and a receipt. The prototype passes 23 browser checks; it is a proposed experience, not a deployed fix."
+    },
+    {
+      "module": 6,
+      "prompt_file": "06-sidekicks/prompts.md",
+      "prompt_number": 1,
+      "exact_prompt": "Proceed with Module 6 and work iteratively until completion. Keep the same business-lead perspective and create the reusable review skill and scheduled workflow.",
+      "artifact": "06-sidekicks/reviews/manual-2-2026-11-12.md",
+      "supporting_source": ".agents/skills/review-checklist/SKILL.md",
+      "finding": "Review-checklist ran twice against four complete briefs. It found missing ownership, missing success criteria, scope drift and solution-first framing; the second run correctly produced a quiet unchanged result."
+    }
+  ],
+  "embedded_prototype": "05-super-speed/prototype.html",
+  "embedded_images": [
+    "output/imagegen/rook-dispatch-executive-card-v2.png",
+    "05-super-speed/evidence/responder-live.png",
+    "05-super-speed/evidence/handler-desktop.png"
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "reviewed_at": "2026-11-13T01:16:46.491Z",
-  "tests_run": 13,
-  "passed": 13,
+  "reviewed_at": "2026-11-13T01:29:49.895Z",
+  "tests_run": 16,
+  "passed": 16,
   "failed": 0,
   "successful": true,
   "results": [
@@ -56,14 +56,26 @@
     {
       "name": "13 report uses no external resources and raises no browser errors",
       "passed": true
+    },
+    {
+      "name": "14 six prompt-result pairs exactly match the original prompt files",
+      "passed": true
+    },
+    {
+      "name": "15 actual embedded prototype completes the proposed 75-second response journey",
+      "passed": true
+    },
+    {
+      "name": "16 visuals are embedded and prevention claims retain their limits",
+      "passed": true
     }
   ],
   "print_pages": {
-    "report": 10,
+    "report": 12,
     "agents": 2,
     "brief": 1
   },
   "browser_errors": [],
   "external_resource_requests": [],
-  "scope": "Actual local final-report HTML, source links, keyboard interaction, responsive layout and print QA; not an instructor grade or LMS submission."
+  "scope": "Actual final-report HTML, six verbatim prompt-result pairs, embedded unmodified prototype journey, source links, keyboard interaction, responsive layout and print QA; not an instructor grade or LMS submission."
 }
