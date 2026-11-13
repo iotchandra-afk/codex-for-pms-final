@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-11-13T01:29:59.606453+00:00",
+  "reviewed_at": "2026-11-13T01:54:48.960499+00:00",
   "purpose": "Assignment artifact/evidence audit, not grading",
   "checks_run": 13,
   "passed": 13,
@@ -31,7 +31,7 @@
         "03-rewind": 1,
         "04-x-ray-vision": 1,
         "05-super-speed": 1,
-        "06-sidekicks": 4
+        "06-sidekicks": 5
       }
     },
     {
@@ -120,8 +120,8 @@
       "name": "Deliverable links",
       "passed": true,
       "detail": {
-        "local_targets_checked": 203,
-        "report_anchors": 23
+        "local_targets_checked": 208,
+        "report_anchors": 27
       }
     },
     {

@@ -28,3 +28,7 @@ work iteratively to close these gaps and ensure a 100% score chance on submissio
 ### 4.
 
 how is the rubric score looks like today?
+
+### 5.
+
+Craft a punchy, eye grabbing comic strip for the final presentation.

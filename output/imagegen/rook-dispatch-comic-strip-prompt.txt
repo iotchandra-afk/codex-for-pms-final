@@ -1,0 +1,23 @@
+Create an original, punchy premium editorial COMIC STRIP for an executive presentation about fictional Rook Dispatch. A single landscape image, 3:2 aspect ratio, high resolution, six clearly separated panels in a 3-column by 2-row grid, read left to right across the top, then across the bottom. Bold cinematic comic illustration, striking camera angles, thick confident ink, restrained halftone, expressive faces, substantial visual storytelling. Brand palette: midnight navy #102c37, bone-white #f4f5ef, electric lime #b9f36b for deceptive dashboard optimism and verified findings, amber/orange for missed opportunities. Original superhero logistics universe, NOT generic office clip art. No existing comic characters or logos. Wide clean gutters. Beautiful large legible comic lettering, minimal copy. It should catch an executive's eye in one second and explain the story in twenty seconds.
+
+TOP TITLE spanning the full width: "THE DASHBOARD WAS GREEN."
+Second line, even more emphatic: "THE PHONE WAS SILENT."
+Small original rook-tower mark and "ROOK DISPATCH".
+
+Recurring original characters: Kip, a young handler wearing a headset and dark practical jacket, short dark curly hair; Meteor Mite, a compact independent masked responder wearing a distinctive teal/navy rescue suit and amber visor. Keep their designs consistent across panels. Their depictions are illustrative, not portraits. Introduce a thoughtful analyst for the controlled test, with no identity claims.
+
+PANEL 1, "1  THE HEADLINE": dramatic over-the-shoulder shot of Kip's huge green console showing an upward acceptance chart and exactly "72.7% acceptance". In the foreground Mite holds a black, completely silent phone. Kip's small speech bubble: "Looks better." Show the contradiction visually; no cheering crowd.
+
+PANEL 2, "2  THE DEADLINE": an unmistakable LABORATORY / TEST-SCREEN simulation, not a claimed real historical answer time. Large amber stopwatch with "60s window"; a simulated gloved thumb arriving with a clear "75s answer" label. A route arrow has already moved to the next responder. Small clear banner "CONTROLLED TEST". One short sound/caption: "Missed."
+
+PANEL 3, "3  THE TRAP": dynamic visual of Mite descending a ranking ladder as missed-notification cards become a negative history score, while a bright offer arrow skips to another responder above. Exact short text: "Missed = declined", "-0.12 history", "No offer. No recovery credit." Do not depict an unavailable status or account deletion. This is ranking, not availability.
+
+PANEL 4, "4  THE PEOPLE": striking split-composition of FOUR masked responder silhouettes fading from a busy shower of offer cards on the left to just THREE offer cards on the right. Giant exact statistic: "49 → 3 offers/week". Clear small line: "Four responders · baseline mean → final week". Kip notices the people behind the aggregate. Do not suggest 49 people or three people; the numbers are combined offers.
+
+PANEL 5, "5  THE WAY BACK": optimistic but controlled: Kip's console, Mite's phone, and an operations reviewer connected by a clean three-step path. Large visible "PROPOSED" stamp on a readiness-review card, a hand explicitly confirming readiness, appropriate capability/maintenance check icons, and a bounded review receipt. Exact caption: "Readiness → fit checks → review". Kip's bubble: "Consider. Don't guarantee." No guaranteed allocation, no claim of production deployment or a verified successful rollout.
+
+PANEL 6, "6  THE HABIT": heroic closing close-up of a reusable brief-review checklist beside Kip, with a weekly calendar and a human reviewer considering flagged decisions. The four exact checklist words: "Owner • Outcome • Scope • Problem". Main caption: "Review weekly." The checklist is a review habit, NOT an automated release-blocking system or live routing monitor.
+
+BOTTOM footer, legible but subordinate: "Fictional dramatization. Code mechanism reproduced; historical causation incomplete."
+
+Use only the quoted text above and panel headings, accurately spelled. No extra invented metrics, customer quotes, money, promises, or branding. Make this emotionally memorable: the service is about getting appropriate people a chance to respond, not making a dashboard green. Opaque background. Return the generated image inline; if providing any local output, save it only under D:\Codex for PM- Product School 2026\output\imagegen\.

@@ -1,7 +1,7 @@
 {
-  "reviewed_at": "2026-11-13T01:29:49.895Z",
-  "tests_run": 16,
-  "passed": 16,
+  "reviewed_at": "2026-11-13T01:54:38.034Z",
+  "tests_run": 17,
+  "passed": 17,
   "failed": 0,
   "successful": true,
   "results": [
@@ -68,10 +68,14 @@
     {
       "name": "16 visuals are embedded and prevention claims retain their limits",
       "passed": true
+    },
+    {
+      "name": "17 comic preserves generated artwork and remains readable on mobile",
+      "passed": true
     }
   ],
   "print_pages": {
-    "report": 12,
+    "report": 13,
     "agents": 2,
     "brief": 1
   },
