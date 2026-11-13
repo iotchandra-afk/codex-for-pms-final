@@ -15,6 +15,8 @@ prompt library built from your own questions.
 
 ### 1.
 
+Proceed with Module 5 and work iteratively until completion. Keep the same business-lead perspective and use the Module 4 handoff to create the product brief and working prototype.
+
 ### 2.
 
 ### 3.

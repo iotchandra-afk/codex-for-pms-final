@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Brief Review"
+  short_description: "Review ownership, outcomes, scope and problem framing"
+  default_prompt: "Use $review-checklist to review the product briefs and show evidence for each finding."

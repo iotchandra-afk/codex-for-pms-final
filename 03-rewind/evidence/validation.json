@@ -1,0 +1,52 @@
+[
+  {
+    "name": "all ping pages collected",
+    "passed": true,
+    "detail": "1696/1696"
+  },
+  {
+    "name": "all callout pages collected",
+    "passed": true,
+    "detail": "1319/1319"
+  },
+  {
+    "name": "complete roster-week grid",
+    "passed": true,
+    "detail": "16 responders x 10 calendar weeks; zero counts retained"
+  },
+  {
+    "name": "weekly SQL matches independently aggregated raw pings",
+    "passed": true,
+    "detail": "10/10 weeks, four outcome counts"
+  },
+  {
+    "name": "weekly SQL matches raw callout assignment counts",
+    "passed": true,
+    "detail": "10/10 weeks, incident counts and outcomes"
+  },
+  {
+    "name": "responder-week sums match weekly totals",
+    "passed": true,
+    "detail": "No zero-exposure responder dropped"
+  },
+  {
+    "name": "baseline + transition + post reconcile",
+    "passed": true,
+    "detail": "1,034 + 177 + 485 pings; 837 + 110 + 372 incidents"
+  },
+  {
+    "name": "source integrity query",
+    "passed": true,
+    "detail": "{\"incomplete_pings\":\"0\",\"invalid_outcomes\":\"0\",\"duplicate_ping_groups\":\"0\",\"duplicate_callout_numbers\":\"0\",\"unknown_responders\":\"0\",\"orphan_pings\":\"0\",\"pings_before_incident\":\"0\",\"callouts_with_multiple_taken\":\"0\"}"
+  },
+  {
+    "name": "roster uniqueness and references",
+    "passed": true,
+    "detail": "{\"roster_rows\":\"16\",\"unique_responder_names\":\"16\",\"incomplete_roster_rows\":\"0\",\"handler_rows\":\"15\",\"unique_handler_names\":\"15\",\"unmatched_handlers\":\"0\"}"
+  },
+  {
+    "name": "explicit severe-exposure screen identifies four",
+    "passed": true,
+    "detail": "Descriptive screen: baseline mean >=10 offers/week and <=1 offer in final week; not a causal control group"
+  }
+]

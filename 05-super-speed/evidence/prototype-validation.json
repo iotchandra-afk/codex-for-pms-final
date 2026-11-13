@@ -1,0 +1,103 @@
+{
+  "tests_run": 23,
+  "passed": 23,
+  "failed": 0,
+  "results": [
+    {
+      "name": "01 verified historical evidence renders",
+      "passed": true
+    },
+    {
+      "name": "02 operations cannot approve without request or readiness",
+      "passed": true
+    },
+    {
+      "name": "03 completed fit checks do not substitute for responder confirmation",
+      "passed": true
+    },
+    {
+      "name": "04 readiness requires an explicit acknowledgement",
+      "passed": true
+    },
+    {
+      "name": "05 every fit and maintenance gate is required",
+      "passed": true
+    },
+    {
+      "name": "06 approval is bounded and records a decision note",
+      "passed": true
+    },
+    {
+      "name": "07 a 75-second response is accepted within the proposed window",
+      "passed": true
+    },
+    {
+      "name": "08 deadline expiry remains missed and requires follow-up",
+      "passed": true
+    },
+    {
+      "name": "09 explicit decline stays distinct from missed",
+      "passed": true
+    },
+    {
+      "name": "10 changed fit pauses authorization before an offer",
+      "passed": true
+    },
+    {
+      "name": "11 changed fit withdraws a live offer without inferring refusal",
+      "passed": true
+    },
+    {
+      "name": "12 expiry blocks issue and requires fresh review confirmation",
+      "passed": true
+    },
+    {
+      "name": "13 historical evidence and availability survive the full journey",
+      "passed": true
+    },
+    {
+      "name": "14 controlled comparison is explicit and does not change evidence",
+      "passed": true
+    },
+    {
+      "name": "15 keyboard tab navigation follows the selected workspace",
+      "passed": true
+    },
+    {
+      "name": "16 decision notes render as text in the audit receipt",
+      "passed": true
+    },
+    {
+      "name": "17 all workspaces fit a 390-pixel viewport",
+      "passed": true
+    },
+    {
+      "name": "18 reset clears simulated actions but retains the evidence",
+      "passed": true
+    },
+    {
+      "name": "19 displayed historical events match Module 3 source records",
+      "passed": true
+    },
+    {
+      "name": "20 paired service measures stay historical after a demo acceptance",
+      "passed": true
+    },
+    {
+      "name": "21 responder can pause readiness and must reconfirm it",
+      "passed": true
+    },
+    {
+      "name": "22 responder pause withdraws a live offer without recording refusal",
+      "passed": true
+    },
+    {
+      "name": "23 mobile review entry is visible before scrolling",
+      "passed": true
+    }
+  ],
+  "browser_errors": [],
+  "external_network_requests": [],
+  "successful": true,
+  "scope": "Browser-level validation of the standalone simulated prototype, not a production integration test."
+}

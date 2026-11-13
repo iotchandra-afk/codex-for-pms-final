@@ -1,0 +1,123 @@
+{
+  "tests_run": 16,
+  "failures": 0,
+  "errors": 0,
+  "successful": true,
+  "python": "3.11.5",
+  "source_sha256": {
+    "config.py": "c84f6110e0a80a6d5c8bb59710f3456f51a31d303d77a3721b62011b292957e9",
+    "offer.py": "dfff257a4baa9b7b6ff71369ea41277779952b03aa80e115e235e9bfd782e7bc",
+    "history.py": "43863fcf2602f4c4b9829b6fa2168099e32e671df62b5f9ede90461b6e5462f7",
+    "routing.py": "35ad0f45008e7376064ad7215b34808b3a27b544e70405391855e031b5e9f7a6",
+    "availability.py": "fc0ee2269143190c49d0a130f8c0628cafb6e8fccdcd6f7df942cf0d194b7346"
+  },
+  "source_unchanged": true,
+  "controlled_cases": {
+    "controlled_75_second_response": {
+      "90_seconds": {
+        "timeout": 90,
+        "response_after": 75,
+        "outcome": "taken",
+        "elapsed": 75.0,
+        "push_calls": 1,
+        "withdraw_calls": 0
+      },
+      "60_seconds": {
+        "timeout": 60,
+        "response_after": 75,
+        "outcome": "missed",
+        "elapsed": 60.0,
+        "push_calls": 1,
+        "withdraw_calls": 1
+      }
+    },
+    "deadline_boundary": {
+      "59_seconds": {
+        "timeout": 60,
+        "response_after": 59,
+        "outcome": "taken",
+        "elapsed": 59.0,
+        "push_calls": 1,
+        "withdraw_calls": 0
+      },
+      "60_seconds": {
+        "timeout": 60,
+        "response_after": 60,
+        "outcome": "missed",
+        "elapsed": 60.0,
+        "push_calls": 1,
+        "withdraw_calls": 1
+      }
+    },
+    "miss_vs_decline": {
+      "missed": 0.38,
+      "turned down": 0.38
+    },
+    "neutral_to_floor": [
+      0.5,
+      0.38,
+      0.26,
+      0.14,
+      0.020000000000000018,
+      0.0
+    ],
+    "acceptances_from_floor_to_at_least_neutral": 7,
+    "priority_reversal": {
+      "travel_minutes": {
+        "Near responder": 10,
+        "Far responder": 20
+      },
+      "initial_history": {
+        "Near responder": 0.5,
+        "Far responder": 0.9
+      },
+      "score_before": {
+        "Near responder": 0.7416666666666667,
+        "Far responder": 0.7083333333333334
+      },
+      "score_after": {
+        "Near responder": 0.7116666666666667,
+        "Far responder": 0.7283333333333334
+      },
+      "near_history_after": 0.38,
+      "far_history_after": 0.98,
+      "note": "Both the near responder's penalties and the far responder's credits contribute."
+    },
+    "ranked_without_offers": {
+      "callouts": 50,
+      "low_history_offers": 0,
+      "low_history_score_start": 0.26,
+      "low_history_score_end": 0.26
+    },
+    "weight_sensitivity": {
+      "pre_42_comment_values_order": [
+        "Far responder",
+        "Near responder"
+      ],
+      "current_order": [
+        "Near responder",
+        "Far responder"
+      ],
+      "current_score_cost_per_miss_before_floor": 0.03,
+      "prior_weight_score_cost_per_miss_before_floor": 0.048
+    },
+    "availability_boundary": {
+      "supplied_dispatch_calls_current_record": false,
+      "fixture_changed": false,
+      "limit": "The real availability and Supply adapters are absent; this is not an end-to-end Supply contract test."
+    },
+    "capability_boundary": {
+      "fixture": "Available-for stub deliberately supplies an incapable candidate.",
+      "observed": "This component ranks and offers that candidate; no hard capability gate here.",
+      "limit": "Verify whether omitted upstream availability/eligibility code enforces full capability."
+    },
+    "timeout_restoration_limit": {
+      "timeout": 90,
+      "low_history_still_unoffered": true,
+      "low_history_score": 0.26,
+      "scope": "Controlled two-candidate case; restoring time alone does not reset existing history."
+    }
+  },
+  "log": "test_01_same_willing_response_is_taken_at_90_but_missed_at_60 (__main__.MechanismTests.test_01_same_willing_response_is_taken_at_90_but_missed_at_60) ... ok\ntest_02_deadline_is_strictly_before_60_seconds (__main__.MechanismTests.test_02_deadline_is_strictly_before_60_seconds) ... ok\ntest_03_missed_and_explicit_refusal_have_identical_history_effect (__main__.MechanismTests.test_03_missed_and_explicit_refusal_have_identical_history_effect) ... ok\ntest_04_acceptance_credit_and_early_stop (__main__.MechanismTests.test_04_acceptance_credit_and_early_stop) ... ok\ntest_05_penalties_and_recovery_are_asymmetric_and_bounded (__main__.MechanismTests.test_05_penalties_and_recovery_are_asymmetric_and_bounded) ... ok\ntest_06_calendar_time_does_not_restore_history (__main__.MechanismTests.test_06_calendar_time_does_not_restore_history) ... ok\ntest_07_one_miss_and_competitor_acceptance_reverse_priority (__main__.MechanismTests.test_07_one_miss_and_competitor_acceptance_reverse_priority) ... ok\ntest_08_ranked_but_unoffered_remains_stuck_when_leader_keeps_accepting (__main__.MechanismTests.test_08_ranked_but_unoffered_remains_stuck_when_leader_keeps_accepting) ... ok\ntest_09_reweighting_changes_priority_but_does_not_remove_history (__main__.MechanismTests.test_09_reweighting_changes_priority_but_does_not_remove_history) ... ok\ntest_10_zero_history_still_remains_on_supplied_candidate_list (__main__.MechanismTests.test_10_zero_history_still_remains_on_supplied_candidate_list) ... ok\ntest_11_if_every_offer_is_missed_dispatch_exhausts_candidates (__main__.MechanismTests.test_11_if_every_offer_is_missed_dispatch_exhausts_candidates) ... ok\ntest_12_provided_dispatch_does_not_write_readiness_or_supply_record (__main__.MechanismTests.test_12_provided_dispatch_does_not_write_readiness_or_supply_record) ... ok\ntest_13_capability_is_a_soft_score_in_this_component (__main__.MechanismTests.test_13_capability_is_a_soft_score_in_this_component) ... ok\ntest_14_fixed_observed_sequence_replay_is_complete (__main__.MechanismTests.test_14_fixed_observed_sequence_replay_is_complete) ... ok\ntest_15_hashes_confirm_source_unchanged (__main__.MechanismTests.test_15_hashes_confirm_source_unchanged) ... ok\ntest_16_longer_timeout_does_not_reset_existing_low_history (__main__.MechanismTests.test_16_longer_timeout_does_not_reset_existing_low_history) ... ok\n\n----------------------------------------------------------------------\nRan 16 tests in 0.022s\n\nOK\n",
+  "scope": "Actual teaching source with mocked omitted adapters. Controlled mechanism validation, not deployed-system root-cause certification."
+}

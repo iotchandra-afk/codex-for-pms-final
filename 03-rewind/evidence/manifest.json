@@ -1,0 +1,44 @@
+{
+  "analysis_date": "2026-11-12",
+  "scenario": "Fictional Rook Industries course exercise",
+  "data_window": {
+    "start": "2026-06-29",
+    "end": "2026-09-06",
+    "timestamps": "Source columns are timestamp without time zone, documented as local time. Connector JSON adds Z; dates and weeks are interpreted using source-local calendar semantics, without converting to America/Chicago or treating Z as verified UTC."
+  },
+  "baseline": {
+    "start": "2026-06-29",
+    "end_inclusive": "2026-08-09",
+    "weeks": 6
+  },
+  "transition": {
+    "start": "2026-08-10",
+    "end_inclusive": "2026-08-16",
+    "weeks": 1,
+    "release_date": "2026-08-12",
+    "note": "Rollout time unknown; this week contains pre- and post-release observations."
+  },
+  "post": {
+    "start": "2026-08-17",
+    "end_inclusive": "2026-09-06",
+    "weeks": 3
+  },
+  "rows": {
+    "pings": 1696,
+    "callouts": 1319,
+    "responders": 16,
+    "responder_weeks": 160
+  },
+  "definitions": {
+    "acceptance": "taken pings / all pings; pooled counts, not average of rounded percentages",
+    "missed": "missed pings / all pings",
+    "callout_take_rate": "callouts with at least one taken ping / all callouts; not incident resolution or capability coverage",
+    "severe_screen": "Descriptive, selected after inspecting data: baseline mean >=10 offers/week AND <=1 offer in final week. It is not a causal treatment/control assignment.",
+    "zero_exposure": "Keep roster-week cells with zero pings; acceptance is undefined (null), not 0%, if no offers."
+  },
+  "limits": [
+    "No historical availability windows, eligibility/capability snapshots, distances, routing scores, notification delivery events, answer timestamps, release-version field, or prior-year seasonality data.",
+    "Observed declines in offers are verified; cause, preparedness, delivery success, effort, fairness and churn are not established.",
+    "All source-table rows were retrieved; ingestion completeness outside and within source tables is not independently attested."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "automation_id": "rook-product-brief-review",
+  "name": "Rook product brief review",
+  "kind": "heartbeat",
+  "destination": "Current course chat",
+  "status": "ACTIVE",
+  "cadence": "Mondays at 08:00 in the application's local schedule",
+  "intended_user_timezone": "America/Chicago",
+  "timezone_note": "The current chat uses America/Chicago. The automation API accepted the local weekly recurrence and returned ACTIVE, but its model-readable response does not expose an independent timezone or next-run timestamp. An explicit timezone argument and a timezone-anchored event format were unsupported; the valid local recurrence was restored and confirmed ACTIVE.",
+  "first_expected_local_date": "2026-11-16",
+  "first_scheduled_execution_verified": false,
+  "manual_baseline": "06-sidekicks/reviews/manual-2026-11-12.json",
+  "skill": ".agents/skills/review-checklist/SKILL.md",
+  "baseline": "06-sidekicks/review-state.json",
+  "outputs": "06-sidekicks/reviews/",
+  "user_visible_output": "Meaningful issue changes, source removals and new access failures/recovery; unchanged successful runs stay quiet.",
+  "runtime_dependency": "For local-folder work, keep the computer on, app running, repo available, and Rook wiki connection accessible.",
+  "verification": "App create and update responses reported the same automation ID with status ACTIVE. The view tool rendered a user-visible automation card; no expanded MCP App was available for model-side DOM inspection."
+}
+

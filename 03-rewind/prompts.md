@@ -17,6 +17,8 @@ prompt library built from your own questions.
 
 ### 1.
 
+proceed with module 3 and work iteratively until completion. Use persona of native leader in this business space demonstrating rich business depth in decision making, verbiage, and deliverable (s) across all modules.
+
 ### 2.
 
 ### 3.

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Captain Vantage",
+    "handler": "Mr. Ambrose",
+    "area": "Hillcrest"
+  },
+  {
+    "name": "Cindermark",
+    "handler": "Farid Haddad",
+    "area": "Mill District"
+  },
+  {
+    "name": "Corporal Ashgrove",
+    "handler": "Yusuf Demir",
+    "area": "Northfield"
+  },
+  {
+    "name": "Farlight",
+    "handler": "Linda Pruitt",
+    "area": "Uptown"
+  },
+  {
+    "name": "Halfmoon",
+    "handler": "Simone Fischer",
+    "area": "Westbury"
+  },
+  {
+    "name": "Ironvale",
+    "handler": "Teresa Alvarez",
+    "area": "Riverside"
+  },
+  {
+    "name": "Meteor Mite",
+    "handler": "Kip",
+    "area": "Eastgate"
+  },
+  {
+    "name": "Nightwell",
+    "handler": "Marjorie Sung",
+    "area": "Midtown"
+  },
+  {
+    "name": "Sgt. Bulwark",
+    "handler": "Halloran",
+    "area": "Foundry Row"
+  },
+  {
+    "name": "Sgt. Falkirk",
+    "handler": "Owen Bramwell",
+    "area": "Kingsbridge"
+  },
+  {
+    "name": "Stormwrack",
+    "handler": "Renata Kovač",
+    "area": "Southport"
+  },
+  {
+    "name": "The Drift",
+    "handler": "Beatrice Calloway",
+    "area": "Greenway"
+  },
+  {
+    "name": "The Gale",
+    "handler": "Kip",
+    "area": "Eastgate"
+  },
+  {
+    "name": "The Longcast",
+    "handler": "Graham Petrov",
+    "area": "Lakeshore"
+  },
+  {
+    "name": "The Undertow",
+    "handler": "Desmond Okafor",
+    "area": "Harborside"
+  },
+  {
+    "name": "Vesper",
+    "handler": "Aunt Dot",
+    "area": "Old Town"
+  }
+]

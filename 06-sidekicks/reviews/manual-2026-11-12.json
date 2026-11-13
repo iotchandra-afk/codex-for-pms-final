@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "run_id": "manual-2026-11-12",
+  "run_type": "manual",
+  "reviewed_at": "2026-11-13T00:35:58+00:00",
+  "complete": true,
+  "source_index": {
+    "id": "3eac8516-f501-8187-9cfa-f12bd7bbf43c",
+    "url": "https://app.notion.com/p/3eac8516f50181879cfaf12bd7bbf43c"
+  },
+  "expected_ids": [
+    "3eac8516-f501-81b5-bf1e-fe6be35d119a",
+    "3eac8516-f501-81b9-b6c9-fa532191342f",
+    "3eac8516-f501-81bd-80c0-fbde07980760",
+    "3eac8516-f501-81bf-80ef-f897b294a174"
+  ],
+  "briefs": [
+    {
+      "id": "3eac8516-f501-81b5-bf1e-fe6be35d119a",
+      "title": "Bulk Callout",
+      "url": "https://app.notion.com/p/3eac8516f50181b5bf1efe6be35d119a",
+      "source_text": "# Bulk Callout\n\nOne-pager · Product, Dispatch · 12 January 2026\n\n## Problem\nWhen something big happens — a building evacuation, a multi-block search, anything that needs more than one responder — a handler right now sends callouts the same way they'd send one: pick a responder, wait, pick the next. Halloran mentioned it too, on the Supply side, when a shift needs several people kitted out at once. For a handler managing more than one responder, or covering for another handler who's out, that's slow exactly when speed matters most.\n\n## Proposal\nLet a handler select several responders from the console and send them all the same callout in a single action. Each responder still gets their own accept/decline, on their own phone, same as today — this isn't a group message, it's the existing callout flow sent to more than one person at once.\n\n## Success measure\nFewer support tickets mentioning a handler who \"just started calling people directly\" during a multi-responder incident. Time-to-full-coverage on a multi-responder callout should drop, though we don't have a clean baseline for it yet — worth getting one before this ships.\n\n## Scope\nOnly the existing callout flow, sent to more than one responder. No group chat between responders, no bulk requisitions, no change to how any individual responder's callout is scored or ranked. If a table needs to send different jobs to different people, that's still one callout at a time — this is only for \"the same job, several people.\"\n\n## Open questions\nFlagging this for whoever picks it up next quarter. Console changes will need the product designer's input on the multi-select interaction, and engineering will need to scope the actual send logic — noting it here so it isn't lost, but nobody's picked it up yet.",
+      "checks": {
+        "owner_named": {
+          "status": "flag",
+          "section": "Open questions",
+          "evidence": [
+            "Flagging this for whoever picks it up next quarter.",
+            "nobody's picked it up yet."
+          ],
+          "reason": "No accountable owner is assigned anywhere in the complete brief; contributors are mentioned as dependencies.",
+          "business_impact": "Unowned coordination work can remain a commitment without a delivery decision or accountable tradeoff.",
+          "next_action": "Name an accountable owner or team and state whether it is accepted or proposed."
+        },
+        "success_measure": {
+          "status": "pass",
+          "section": "Success measure",
+          "evidence": [
+            "Fewer support tickets mentioning a handler who \"just started calling people directly\" during a multi-responder incident."
+          ],
+          "reason": "An observable customer-workaround proxy and time-to-full-coverage direction are specified; the missing baseline is a launch-readiness follow-up."
+        },
+        "scope_bounded": {
+          "status": "pass",
+          "section": "Scope",
+          "evidence": [
+            "No group chat between responders, no bulk requisitions, no change to how any individual responder's callout is scored or ranked."
+          ],
+          "reason": "Same-callout multi-send is bounded with explicit exclusions."
+        },
+        "problem_before_solution": {
+          "status": "pass",
+          "section": "Problem",
+          "evidence": [
+            "that's slow exactly when speed matters most."
+          ],
+          "reason": "The opening establishes the sequential coordination problem and its operational cost before introducing multi-send."
+        }
+      },
+      "follow_ups": [
+        "Establish a clean time-to-full-coverage baseline before shipping."
+      ]
+    },
+    {
+      "id": "3eac8516-f501-81b9-b6c9-fa532191342f",
+      "title": "Handler Phone App",
+      "url": "https://app.notion.com/p/3eac8516f50181b9b6c9fa532191342f",
+      "source_text": "# Handler Phone App\n\nOne-pager · Product, Dispatch · 8 September 2026\n\n## Proposal\nWe should build a phone app for handlers. Right now the console is desktop-only, which means a handler is tied to their desk to see anything about their responder. A phone app would give handlers push notifications the moment something changes, a live view of their responder's current status, and one-tap contact straight from the notification — call or message, no need to open the console first.\n\n## What this solves\nAunt Dot — a handler in the interview pile — asked for \"maybe something that tells me too, not just him, when something's come in, so I'm not relying on hearing a buzz through a ceiling.\" A phone app would put that information in front of her the moment it happens, instead of whenever she next happens to hear it.\n\n## Owner\nThe product designer, exploring for Q4 alongside the console work. Not yet staffed for a build.\n\n## Success measure\nFewer handlers reporting they missed a status change because they weren't at the console. No baseline number yet — that's the metric to start tracking once this moves past exploration.\n\n## Scope\nJust the three things above: notifications, status view, one-tap contact. Nothing from Supply, nothing from the console's activity log — a phone app that mirrors the console's other features is a second project, not this one.",
+      "checks": {
+        "owner_named": {
+          "status": "pass",
+          "section": "Owner",
+          "evidence": [
+            "The product designer, exploring for Q4 alongside the console work."
+          ],
+          "reason": "An identifiable role owns exploration. Build staffing is explicitly unresolved and is not misreported as staffed delivery."
+        },
+        "success_measure": {
+          "status": "pass",
+          "section": "Success measure",
+          "evidence": [
+            "Fewer handlers reporting they missed a status change because they weren't at the console."
+          ],
+          "reason": "An observable user outcome is specified. Baseline and target need definition before delivery decisions."
+        },
+        "scope_bounded": {
+          "status": "pass",
+          "section": "Scope",
+          "evidence": [
+            "Just the three things above: notifications, status view, one-tap contact."
+          ],
+          "reason": "The concept has three explicit features and excludes a full console mirror and Supply."
+        },
+        "problem_before_solution": {
+          "status": "flag",
+          "section": "Proposal / What this solves",
+          "evidence": [
+            "We should build a phone app for handlers."
+          ],
+          "reason": "The first substantive sentence commits to a phone app before establishing the handler's notification/awareness problem.",
+          "business_impact": "The team may commit to a platform build before comparing smaller ways to restore timely handler awareness.",
+          "next_action": "Open with the handler problem and evidence, then compare or justify the phone app as a response."
+        }
+      },
+      "follow_ups": [
+        "Set baseline and target before build commitment; exploration is owned but build staffing is not confirmed."
+      ]
+    },
+    {
+      "id": "3eac8516-f501-81bd-80c0-fbde07980760",
+      "title": "Requisition Approval Chains",
+      "url": "https://app.notion.com/p/3eac8516f50181bd80c0fbde07980760",
+      "source_text": "# Requisition Approval Chains\n\nOne-pager · Product, Supply · 14 July 2026\n\n## Problem\nRight now, any requisition over any dollar amount goes through one approval: a quartermaster signs off and it ships. For anything over $2,000 — a new pack of hazmat-rated suits, a batch of grapple lines — that's one person's judgment on a fairly large purchase, and Halloran's asked more than once for a second set of eyes on the big-ticket items.\n\n## Proposal\nAdd a second approval step for requisitions over $2,000: a quartermaster still approves first, then their manager signs off before anything ships. That's the whole ask.\nAnd while we're building the approval step, we should also let a quartermaster route around a slow approver if they haven't responded in 48 hours, and add a dashboard showing every pending approval across all three sites so nobody has to ask around for status, and let a handler see where their own requisition is stuck without going through Halloran directly, and honestly — if we're building all of that, this could eventually just replace the weekly gear-cage spreadsheet Halloran keeps by hand.\n\n## Owner\nThe Rook Supply team.\n\n## Success measure\nFewer requisitions over $2,000 that ship without a second sign-off. We'll know it's working when that number is zero.\n\n## Open questions\nHow much of the above ships together versus in phases — TBD.",
+      "checks": {
+        "owner_named": {
+          "status": "pass",
+          "section": "Owner",
+          "evidence": [
+            "The Rook Supply team."
+          ],
+          "reason": "An identifiable team is assigned. Do not substitute Halloran as owner merely because he is a stakeholder."
+        },
+        "success_measure": {
+          "status": "pass",
+          "section": "Success measure",
+          "evidence": [
+            "We'll know it's working when that number is zero."
+          ],
+          "reason": "The measure is requisitions above $2,000 shipped without a second sign-off, with a zero target."
+        },
+        "scope_bounded": {
+          "status": "flag",
+          "section": "Proposal / Open questions",
+          "evidence": [
+            "That's the whole ask.",
+            "route around a slow approver if they haven't responded in 48 hours",
+            "a dashboard showing every pending approval across all three sites",
+            "How much of the above ships together versus in phases — TBD."
+          ],
+          "reason": "A second approval expands into escalation routing, a cross-site dashboard, handler visibility and possible spreadsheet replacement; the current release boundary is unresolved.",
+          "business_impact": "Approval control can become a multi-workflow program, obscuring delivery cost and delaying needed procurement decisions.",
+          "next_action": "Define the first release as one bounded approval change; explicitly defer or separately approve the other workstreams."
+        },
+        "problem_before_solution": {
+          "status": "pass",
+          "section": "Problem",
+          "evidence": [
+            "that's one person's judgment on a fairly large purchase"
+          ],
+          "reason": "The opening establishes the high-value purchasing control gap before proposing another approval."
+        }
+      },
+      "follow_ups": []
+    },
+    {
+      "id": "3eac8516-f501-81bf-80ef-f897b294a174",
+      "title": "Routing Override Audit Log",
+      "url": "https://app.notion.com/p/3eac8516f50181bf80eff897b294a174",
+      "source_text": "# Routing Override Audit Log\n\nOne-pager · Product, Dispatch · 5 March 2026\n\n## Problem\nWhen a handler manually overrides Dispatch's routing — picks someone other than the responder we recommended — there's no record of it anywhere. No who, no when, no why. The support lead's team has hit this more than once: a complaint comes in about a responder who was passed over, and there's no way to even confirm an override happened, let alone why.\n\n## Proposal\nLog every manual override: who made it, when, which responder they picked instead of the recommended one, and a short reason if they typed one. Surface it in the console's existing activity view, next to the callout it belongs to.\n\n## Owner\nThe engineering manager's team builds it. The product designer has already mocked the activity-view addition — it's a small addition to a screen that exists.\n\n## Scope\nOverrides only. Not a general audit log for every action in the console — just the one decision that currently leaves no trace.\n\n## Next steps\nThe engineering manager's team can pick this up once profile redesign wraps. Small, contained, ready to build.",
+      "checks": {
+        "owner_named": {
+          "status": "pass",
+          "section": "Owner",
+          "evidence": [
+            "The engineering manager's team builds it."
+          ],
+          "reason": "An identifiable engineering team owns delivery; the designer's contribution is a dependency."
+        },
+        "success_measure": {
+          "status": "flag",
+          "section": "Proposal / Next steps",
+          "evidence": [
+            "Log every manual override: who made it, when, which responder they picked instead of the recommended one, and a short reason if they typed one.",
+            "Small, contained, ready to build."
+          ],
+          "reason": "The full brief describes records and readiness to build but does not state how successful traceability will be measured.",
+          "business_impact": "Shipping a log may not make disputed routing decisions traceable when support needs them.",
+          "next_action": "Define an observable completeness or support-traceability measure, its denominator and target; assign baseline ownership."
+        },
+        "scope_bounded": {
+          "status": "pass",
+          "section": "Scope",
+          "evidence": [
+            "Overrides only. Not a general audit log for every action in the console"
+          ],
+          "reason": "The record is limited to manual routing overrides and uses the existing activity view."
+        },
+        "problem_before_solution": {
+          "status": "pass",
+          "section": "Problem",
+          "evidence": [
+            "No who, no when, no why."
+          ],
+          "reason": "The missing decision trace and resulting support problem are stated before the logging proposal."
+        }
+      },
+      "follow_ups": []
+    }
+  ]
+}

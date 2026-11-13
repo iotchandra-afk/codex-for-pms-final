@@ -15,6 +15,8 @@ prompt library built from your own questions.
 
 ### 1.
 
+Proceed with Module 6 and work iteratively until completion. Keep the same business-lead perspective and create the reusable review skill and scheduled workflow.
+
 ### 2.
 
 ### 3.

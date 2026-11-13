@@ -18,6 +18,8 @@ prompt library built from your own questions.
 
 ### 1.
 
+Proceed with Module 4 and work iteratively until completion. Keep the same business-lead perspective and validate the routing mechanism against the Module 3 findings.
+
 ### 2.
 
 ### 3.

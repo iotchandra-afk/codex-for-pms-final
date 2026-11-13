@@ -1,0 +1,53 @@
+[
+  {
+    "period": "baseline",
+    "weeks": 6,
+    "pings": 1034,
+    "callouts": 837,
+    "taken": 794,
+    "missed": 24,
+    "turned_down": 216,
+    "pings_per_week": 172.33333333333334,
+    "callouts_per_week": 139.5,
+    "taken_per_week": 132.33333333333334,
+    "acceptance_pct": 76.78916827852998,
+    "missed_pct": 2.3210831721470018,
+    "turned_down_pct": 20.889748549323016,
+    "callouts_taken_pct": 94.8626045400239,
+    "pings_per_callout": 1.2353643966547192
+  },
+  {
+    "period": "release_week",
+    "weeks": 1,
+    "pings": 177,
+    "callouts": 110,
+    "taken": 96,
+    "missed": 38,
+    "turned_down": 43,
+    "pings_per_week": 177,
+    "callouts_per_week": 110,
+    "taken_per_week": 96,
+    "acceptance_pct": 54.23728813559322,
+    "missed_pct": 21.468926553672315,
+    "turned_down_pct": 24.293785310734464,
+    "callouts_taken_pct": 87.27272727272727,
+    "pings_per_callout": 1.6090909090909091
+  },
+  {
+    "period": "post",
+    "weeks": 3,
+    "pings": 485,
+    "callouts": 372,
+    "taken": 332,
+    "missed": 73,
+    "turned_down": 80,
+    "pings_per_week": 161.66666666666666,
+    "callouts_per_week": 124,
+    "taken_per_week": 110.66666666666667,
+    "acceptance_pct": 68.45360824742268,
+    "missed_pct": 15.051546391752577,
+    "turned_down_pct": 16.49484536082474,
+    "callouts_taken_pct": 89.24731182795699,
+    "pings_per_callout": 1.303763440860215
+  }
+]
