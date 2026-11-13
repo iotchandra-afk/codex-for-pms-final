@@ -9,7 +9,7 @@ The [official assignment](assignment-brief.md) names four qualitative grading cr
 - [Desktop capture](report-desktop.png) and [mobile capture](report-mobile.png): visually inspected for hierarchy, readability and clipping.
 - [Printable report](final-report.pdf), [two-page AGENTS.md render](agents-print.pdf), and [one-page product brief render](brief-print.pdf). The original Markdown/HTML remain the authoritative editable artifacts.
 - [Prompt-to-artifact map](prompt-artifact-map.json): the exact six selected user prompts, their source slots and the real artifacts paired with them. The presentation embeds the actual saved prototype unchanged and inlines its visual assets, so the story and demonstration work from one HTML file. Linked source documents still require the repo.
-- [Six-panel comic](../output/imagegen/rook-dispatch-comic-strip.png): original generated artwork embedded unchanged in the presentation, with an accessible transcript, evidence links and mobile horizontal scrolling. Dialogue and character designs are illustrative; the controlled timing test and proposed recovery are labeled.
+- [Six-panel comic](../output/imagegen/rook-dispatch-avengers-comic.png): Avengers-themed artwork embedded unchanged in the presentation, with an accessible transcript, evidence links and mobile horizontal scrolling. Avengers characters and dialogue illustrate a controlled analogy; the controlled timing test and proposed recovery are labeled.
 
 The existing module evidence separately records 10 metric checks, 16 controlled mechanism tests, 23 prototype browser tests and 18 review-state tests. Those are historical validation runs; the submission audit checks their records and unchanged sources without pretending to rerun all of them.
 

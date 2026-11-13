@@ -32,3 +32,7 @@ how is the rubric score looks like today?
 ### 5.
 
 Craft a punchy, eye grabbing comic strip for the final presentation.
+
+### 6.
+
+this is pathetic, not explanatory, poor graphics, use Avengers theme and superheroes so theyre relatable.

@@ -1,0 +1,60 @@
+Create a MUCH clearer and more spectacular six-panel AVENGERS comic for an executive product presentation. Use the actual recognizable Marvel Avengers as characters: Captain America with his blue suit, white star and iconic round shield; Iron Man in red-and-gold armor; Thor with blond hair, red cape and Mjolnir; Black Widow with red hair and a black tactical suit; Nick Fury with his eyepatch; Hulk can appear in the final teamwork scene. Use classic illustrated comic character likenesses, NOT photographs or actor likenesses. This is a fictional teaching analogy, not a Marvel endorsement.
+
+Composition: one polished, high-resolution landscape comic page, exactly six numbered panels in a 3-by-2 grid with spacious clean gutters. Generous headline above and a strong closing strip below. Premium cinematic painted graphic-novel art: expressive character acting, dynamic perspective, bright Avengers red/gold/blue contrasted against dramatic charcoal shadows, gorgeous lighting, crisp detailed anatomy and costumes. Characters must dominate the visuals, not bland dashboards. Make every panel immediately understandable. Use BIG, professionally lettered captions and speech bubbles. Enough explanation to teach the causal chain, with NO walls of tiny text. The writing below is the complete copy: preserve the key numbers and label the controlled test and proposed remedy visibly.
+
+TOP HEADLINE in enormous memorable comic lettering:
+"AVENGERS ASSEMBLE."
+"IF DISPATCH STILL PINGS YOU."
+Smaller subhead: "THE ROUTING TRAP BEHIND THE GREEN DASHBOARD"
+Small brand: "ROOK DISPATCH"
+
+PANEL 1, heading "1  TWO RULES CHANGED":
+Iron Man at a spectacular Stark-style dispatch console physically turning TWO distinct glowing controls, visibly labelled:
+"12 AUGUST · RELEASE 4.2"
+"Answer window: 90s → 60s"
+"Proximity weight: 45% → 60%"
+Tony's speech bubble: "Two changes. One release."
+Visual clarity: a clock changes from 90 to 60, and a nearby hero gains routing priority. These are separate changes.
+
+PANEL 2, heading "2  SAME HERO. SAME 75 SECONDS.":
+An unmistakably labelled "CONTROLLED TEST", split internally into before/after. Captain America is visibly trying to accept an offer with a gloved thumb. Left test: a 90-second clock, green accepted check. Right test: a 60-second deadline, red expired offer. Large exact labels:
+"90s window: TAKEN"
+"60s window: MISSED"
+Cap's bubble: "I was willing. I was late."
+Do not imply that 75 seconds is a measured historical time for an actual Rook responder. This is a controlled teaching example.
+
+PANEL 3, heading "3  A MISS COSTS THE SAME AS NO":
+Black Widow traces two clear arrows from cards marked "MISSED" and "DECLINED" into ONE history-score card marked "-0.12 HISTORY". Show Captain America's ranking tile dropping below Thor's tile, not an unavailable flag or a ban.
+Natasha's speech bubble: "A timeout gets the same penalty as a refusal."
+
+PANEL 4, heading "4  LOWER RANK. FEWER CHANCES.":
+Thor receives a bright new offer and accepts. In the foreground Captain America's phone stays dark; he remains ready with shield in hand. Show a simple three-step visual chain, with this exact explanatory copy:
+"Someone above accepts → Cap gets no offer."
+"No offer → no acceptance credit."
+"Waiting does not restore the retained score."
+Cap's bubble: "How do I climb back?"
+This is the opportunity trap. Do not depict an account deletion or automatic unavailable state.
+
+PANEL 5, heading "5  THE AVERAGE HID THE PEOPLE":
+Nick Fury confronts a huge green acceptance chart beside FOUR silent black phones. Clearly label this panel "ROOK DATA", to distinguish actual fictional-course data from the Avengers analogy.
+Two strong exact metrics:
+"72.7% final-week acceptance"
+"49 → 3 combined offers/week"
+Small but readable line: "Four responders · baseline mean → final week"
+Fury's bubble: "An average isn't recovery."
+Numbers are combined offers to four Rook responders, NOT a count of Avengers or people. Do not assign Avengers names to the actual Rook responder cohort.
+
+PANEL 6, heading "6  A WAY BACK, NOT A PROMISE":
+A warm, energizing teamwork scene: Captain America explicitly confirms readiness on a phone; Black Widow checks incident fit on the console; Iron Man checks gear/maintenance; Fury reviews the proposed decision. Hulk can patiently wait near the gear bay, making the real-world readiness dependency relatable.
+A large visible stamp: "PROPOSED READY REVIEW"
+Simple readable workflow: "Readiness → fit + gear checks → consider an offer"
+Clear caption: "No guaranteed allocation."
+This is a proposed product prototype, not an already deployed or proven fix.
+
+BOTTOM CLOSING STRIP, large enough to read:
+"WEEKLY BRIEF REVIEW: Owner • Outcome • Scope • Problem first."
+Small footer:
+"Illustrative Avengers analogy · Rook course data · Proposed recovery"
+"Live responder-level monitoring is still needed."
+
+Art quality is crucial: this should feel like a dramatic, beautiful Avengers story page, with unmistakable iconic costumes, faces, shield, armor, cape and hammer; powerful visual storytelling; superb hierarchy and legibility. Use only the text above. No random UI jargon, invented numbers, revenue claims, additional quotes or promises. No claim that the weekly brief checklist monitors live routing or blocks a release. Opaque background. Return the image inline; any user-controlled local output should stay inside D:\Codex for PM- Product School 2026\output\imagegen\.
